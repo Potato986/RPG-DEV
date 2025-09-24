@@ -1,0 +1,1 @@
+{	"_comment": "Custom Item Block Door created by default",	"parent": "minecraft:item/generated",	"textures": {		"layer0": "customnpcs:items/custom_doorexample"	}}

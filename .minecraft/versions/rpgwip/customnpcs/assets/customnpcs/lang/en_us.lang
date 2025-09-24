@@ -1,0 +1,44 @@
+custom.chest.chestexample=Custom Chest: Example
+custom.chest.containerexample=Custom Container: Example
+
+effect.potionexample=Example Custom Potion
+
+fluid.custom_fluid_liquidexample=Example Custom Fluid
+
+item.custom_armorexample_chest.name=Example Custom Armor (Chest)
+item.custom_armorexample_feet.name=Example Custom Armor (Feet)
+item.custom_armorexample_head.name=Example Custom Armor (Head)
+item.custom_armorobjexample_chest.name=Example Custom 3D Armor (Chest)
+item.custom_armorobjexample_feet.name=Example Custom 3D Armor (Boots)
+item.custom_armorobjexample_head.name=Example Custom 3D Armor (Head)
+item.custom_armorobjexample_legs.name=Example Custom 3D Armor (Legs)
+item.custom_axeexample.name=Example Custom Axe
+item.custom_bowexample.name=Example Custom Bow
+item.custom_fishingrodexample.name=Example Custom Fishing Rod
+item.custom_foodexample.name=Example Custom Food
+item.custom_itemexample.name=Example simple Custom Item
+item.custom_shieldexample.name=Example Custom Shield
+item.custom_toolexample.name=Example Custom Tool
+item.custom_weaponexample.name=Example Custom Weapon
+
+lingering_potion.effect.potionexample=Example Custom Lingering Potion
+
+particle.particle_example=Example Custom Particle
+particle.particle_obj_example=Example Custom OBJ Particle
+
+potion.effect.potionexample=Example Custom Potion
+
+splash_potion.effect.potionexample=Example Custom Splash Potion
+
+tile.custom_blockexample.name=Example Custom Block
+tile.custom_chestexample.name=Example Custom Chest
+tile.custom_containerexample.name=Example Custom Container
+tile.custom_doorexample.name=Example Custom Door
+tile.custom_double_slabexample.name=Example Custom Slab
+tile.custom_facingblockexample.name=Example Custom Facing Block
+tile.custom_fluid_liquidexample.name=Example Custom Fluid
+tile.custom_portalexample.name=Example Custom Portal Block
+tile.custom_slabexample.name=Example Custom Slab
+tile.custom_stairsexample.name=Example Custom Stairs
+
+tipped_arrow.effect.potionexample=Example Custom Arrow Potion

@@ -1,0 +1,1 @@
+{	"_comment": "Custom Bow Pulling 1 Item Model created by default",	"parent": "customnpcs:item/custom_bowexample",	"textures": {		"layer0": "customnpcs:items/weapons/bowexample_pulling_1"	}}

@@ -1,0 +1,1609 @@
+[12:13:00] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[12:13:00] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[12:13:00] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[12:13:00] [main/INFO]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[12:13:00] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_461, running on Windows 11:amd64:10.0, installed at F:\JAVA8
+[12:13:00] [main/INFO]: Searching E:\RPG开发\.minecraft\versions\rpgwip\mods for mods
+[12:13:00] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in !configanytime-3.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[12:13:00] [main/WARN]: The coremod com.cleanroommc.configanytime.ConfigAnytimePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[12:13:00] [main/WARN]: The coremod ConfigAnytimePlugin (com.cleanroommc.configanytime.ConfigAnytimePlugin) is not signed!
+[12:13:00] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from !mixinbooter-10.6.jar
+[12:13:00] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from _MixinBootstrap-1.1.0.jar
+[12:13:00] [main/INFO]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
+[12:13:00] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in bogosorter-1.4.11.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[12:13:00] [main/WARN]: The coremod BogoSorter-Core (com.cleanroommc.bogosorter.core.BogoSorterCore) is not signed!
+[12:13:00] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Custom NPCs 1.12.2 Unofficial-v.4.431-08Aug2025-Snapshot.jar
+[12:13:00] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in CustomPlayerModels-1.12.2-0.6.24a.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[12:13:01] [main/WARN]: The coremod com.tom.cpmcore.CPMLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[12:13:01] [main/WARN]: The coremod CPMLoadingPlugin (com.tom.cpmcore.CPMLoadingPlugin) is not signed!
+[12:13:01] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from EquipmentCompare-1.12.2-1.3.4.jar
+[12:13:01] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from fancymenu_forge_2.14.9_MC_1.12-1.12.2.jar
+[12:13:01] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in foamfix-0.10.15-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[12:13:01] [main/WARN]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[12:13:01] [main/WARN]: The coremod Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (pl.asie.foamfix.coremod.FoamFixCore) is not signed!
+[12:13:01] [main/WARN]: The coremod me.towdium.hecharacters.core.HechCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[12:13:01] [main/WARN]: The coremod HechCore (me.towdium.hecharacters.core.HechCore) is not signed!
+[12:13:01] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Highlighter-1.12.2-forge-1.1.7.jar
+[12:13:01] [main/INFO]: Loading tweaker i18nupdatemod.launchwrapper.LaunchWrapperTweaker from I18nUpdateMod-3.6.2-all.jar
+[12:13:01] [main/WARN]: The coremod me.towdium.jecharacters.core.JechCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[12:13:01] [main/WARN]: The coremod JechCore (me.towdium.jecharacters.core.JechCore) is not signed!
+[12:13:01] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in JEI-Utilities-1.12.2-0.2.13.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[12:13:01] [main/WARN]: The coremod com.github.vfyjxf.jeiutilities.asm.JeiUtilitiesLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[12:13:01] [main/WARN]: The coremod JeiUtilitiesLoadingPlugin (com.github.vfyjxf.jeiutilities.asm.JeiUtilitiesLoadingPlugin) is not signed!
+[12:13:01] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from konkrete_forge_1.6.1_MC_1.12-1.12.2.jar
+[12:13:01] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in loliasm-5.29.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[12:13:01] [main/WARN]: The coremod LoliASM (zone.rong.loliasm.core.LoliLoadingPlugin) is not signed!
+[12:13:01] [main/INFO]: Lolis are on the client-side.
+[12:13:01] [main/INFO]: Lolis are preparing and loading in mixins since Rongmario's too lazy to write pure ASM at times despite the mod being called 'LoliASM'
+[12:13:01] [main/WARN]: Replacing CA Certs with an updated one...
+[12:13:01] [main/INFO]: Initializing StacktraceDeobfuscator...
+[12:13:01] [main/INFO]: Found MCP stable-39 method mappings: methods-stable_39.csv
+[12:13:01] [main/INFO]: Initialized StacktraceDeobfuscator.
+[12:13:01] [main/INFO]: Installing DeobfuscatingRewritePolicy...
+[12:13:01] [main/INFO]: Installed DeobfuscatingRewritePolicy.
+[12:13:01] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in MiscTweaks-1.12.2-1.5.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[12:13:01] [main/WARN]: The coremod MiscTweaksPlugin (coolsquid.misctweaks.asm.MiscTweaksPlugin) is not signed!
+[12:13:01] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in modularui-2.5.0-rc6.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[12:13:01] [main/WARN]: The coremod ModularUI-Core (com.cleanroommc.modularui.core.ModularUICore) is not signed!
+[12:13:01] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in NonUpdate-AllMCVersion-Final-2.0.2-universal.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[12:13:01] [main/INFO]: Load file: nu-whitelist.txt
+[12:13:01] [main/INFO]: Create file: nu-whitelist.txt
+# !!! DONT REMOVE THIS LINE !!! #
+minecraft.net
+mojang.com
+skin.prinzeugen.net
+fleey.org
+www.skinme.cc
+[12:13:01] [main/INFO]: [nonupdate.forge.ReflectionHelper:resetReflection:52]: Try getDeclaredFields: getDeclaredFields0(boolean)
+[12:13:01] [main/INFO]: [nonupdate.forge.ReflectionHelper:<clinit>:19]: Try getField: reflectionData
+[12:13:01] [main/WARN]: The coremod nonupdate.forge.NonUpdate does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[12:13:01] [main/WARN]: The coremod non_update (nonupdate.forge.NonUpdate) is not signed!
+[12:13:01] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in oxygen-players-list-1.12.2-0.11.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[12:13:01] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in ProbeZS-1.18.8.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[12:13:01] [main/WARN]: The coremod youyihj.probezs.core.CoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[12:13:01] [main/WARN]: The coremod CoreMod (youyihj.probezs.core.CoreMod) is not signed!
+[12:13:01] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in Reskillable-1.12.2-1.13.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[12:13:01] [main/WARN]: The coremod codersafterdark.reskillable.base.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[12:13:01] [main/WARN]: The coremod LoadingPlugin (codersafterdark.reskillable.base.asm.LoadingPlugin) is not signed!
+[12:13:01] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in zenutils-1.25.8.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[12:13:01] [main/WARN]: The coremod ZenUtilsPlugin (youyihj.zenutils.impl.core.ZenUtilsPlugin) is not signed!
+[12:13:01] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[12:13:01] [main/INFO]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[12:13:01] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/E:/RPG开发/.minecraft/versions/rpgwip/mods/!mixinbooter-10.6.jar Service=LaunchWrapper Env=CLIENT
+[12:13:01] [main/DEBUG]: Instantiating coremod class MixinBooterPlugin
+[12:13:01] [main/TRACE]: coremod named MixinBooter is loading
+[12:13:01] [main/WARN]: The coremod zone.rong.mixinbooter.MixinBooterPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[12:13:01] [main/WARN]: The coremod MixinBooter (zone.rong.mixinbooter.MixinBooterPlugin) is not signed!
+[12:13:01] [main/INFO]: Initializing Mixins...
+[12:13:01] [main/INFO]: Compatibility level set to JAVA_8
+[12:13:01] [main/INFO]: Initializing MixinExtras...
+[12:13:01] [main/INFO]: Gathering present mods...
+[12:13:01] [main/INFO]: Finished gathering 21 coremods...
+[12:13:01] [main/DEBUG]: Enqueued coremod MixinBooter
+[12:13:01] [main/DEBUG]: Instantiating coremod class NpcMixinCore
+[12:13:01] [main/TRACE]: coremod named customnpcs is loading
+[12:13:01] [main/DEBUG]: The coremod noppes.npcs.mixin.NpcMixinCore requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[12:13:01] [main/WARN]: The coremod customnpcs (noppes.npcs.mixin.NpcMixinCore) is not signed!
+[12:13:01] [main/DEBUG]: Enqueued coremod customnpcs
+[12:13:01] [main/DEBUG]: Instantiating coremod class FMCore
+[12:13:01] [main/WARN]: The coremod de.keksuccino.fancymenu.core.FMCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[12:13:01] [main/WARN]: The coremod FMCore (de.keksuccino.fancymenu.core.FMCore) is not signed!
+[12:13:01] [main/DEBUG]: Enqueued coremod FMCore
+[12:13:01] [main/DEBUG]: Instantiating coremod class MixinLoader
+[12:13:01] [main/DEBUG]: The coremod com.anthonyhilyard.highlighter.MixinLoader requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[12:13:01] [main/WARN]: The coremod MixinLoader (com.anthonyhilyard.highlighter.MixinLoader) is not signed!
+[12:13:01] [main/DEBUG]: Enqueued coremod MixinLoader
+[12:13:01] [main/DEBUG]: Instantiating coremod class KonkreteCore
+[12:13:01] [main/WARN]: The coremod de.keksuccino.konkrete.core.KonkreteCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[12:13:01] [main/WARN]: The coremod KonkreteCore (de.keksuccino.konkrete.core.KonkreteCore) is not signed!
+[12:13:01] [main/INFO]: [KONKRETE] LOADING CORE PLUGIN!
+[12:13:01] [main/INFO]: [de.keksuccino.konkrete.core.MixinConfigLoader:loadConfigs:29]: [KONKRETE] Loading Mixin Config: fancymenu.general.mixin.json
+[12:13:01] [main/DEBUG]: Enqueued coremod KonkreteCore
+[12:13:01] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[12:13:01] [main/INFO]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[12:13:01] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[12:13:01] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[12:13:01] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[12:13:01] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[12:13:01] [main/INFO]: Loading tweak class name i18nupdatemod.launchwrapper.LaunchWrapperTweaker
+[12:13:01] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[12:13:01] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[12:13:01] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[12:13:01] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[12:13:01] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:13:01] [main/DEBUG]: Injecting coremod ZenUtilsPlugin \{youyihj.zenutils.impl.core.ZenUtilsPlugin\} class transformers
+[12:13:01] [main/TRACE]: Registering transformer youyihj.zenutils.impl.config.ClassProvider
+[12:13:01] [main/DEBUG]: Injection complete
+[12:13:01] [main/DEBUG]: Running coremod plugin for ZenUtilsPlugin \{youyihj.zenutils.impl.core.ZenUtilsPlugin\}
+[12:13:01] [main/DEBUG]: Running coremod plugin ZenUtilsPlugin
+[12:13:01] [main/DEBUG]: Coremod plugin class ZenUtilsPlugin run successfully
+[12:13:01] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:13:01] [main/DEBUG]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[12:13:01] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[12:13:01] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[12:13:01] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[12:13:01] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[12:13:01] [main/DEBUG]: Injection complete
+[12:13:01] [main/DEBUG]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[12:13:01] [main/DEBUG]: Running coremod plugin FMLCorePlugin
+[12:13:02] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[12:13:02] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[12:13:02] [main/DEBUG]: Coremod plugin class FMLCorePlugin run successfully
+[12:13:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:13:02] [main/DEBUG]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[12:13:02] [main/DEBUG]: Injection complete
+[12:13:02] [main/DEBUG]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[12:13:02] [main/DEBUG]: Running coremod plugin FMLForgePlugin
+[12:13:02] [main/DEBUG]: Coremod plugin class FMLForgePlugin run successfully
+[12:13:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:13:02] [main/DEBUG]: Injecting coremod ConfigAnytimePlugin \{com.cleanroommc.configanytime.ConfigAnytimePlugin\} class transformers
+[12:13:02] [main/DEBUG]: Injection complete
+[12:13:02] [main/DEBUG]: Running coremod plugin for ConfigAnytimePlugin \{com.cleanroommc.configanytime.ConfigAnytimePlugin\}
+[12:13:02] [main/DEBUG]: Running coremod plugin ConfigAnytimePlugin
+[12:13:02] [main/DEBUG]: Coremod plugin class ConfigAnytimePlugin run successfully
+[12:13:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:13:02] [main/DEBUG]: Injecting coremod BogoSorter-Core \{com.cleanroommc.bogosorter.core.BogoSorterCore\} class transformers
+[12:13:02] [main/DEBUG]: Injection complete
+[12:13:02] [main/DEBUG]: Running coremod plugin for BogoSorter-Core \{com.cleanroommc.bogosorter.core.BogoSorterCore\}
+[12:13:02] [main/DEBUG]: Running coremod plugin BogoSorter-Core
+[12:13:02] [main/DEBUG]: Coremod plugin class BogoSorterCore run successfully
+[12:13:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:13:02] [main/DEBUG]: Injecting coremod CPMLoadingPlugin \{com.tom.cpmcore.CPMLoadingPlugin\} class transformers
+[12:13:02] [main/TRACE]: Registering transformer com.tom.cpmcore.CPMTransformerService
+[12:13:02] [main/DEBUG]: Injection complete
+[12:13:02] [main/DEBUG]: Running coremod plugin for CPMLoadingPlugin \{com.tom.cpmcore.CPMLoadingPlugin\}
+[12:13:02] [main/DEBUG]: Running coremod plugin CPMLoadingPlugin
+[12:13:02] [main/DEBUG]: Coremod plugin class CPMLoadingPlugin run successfully
+[12:13:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:13:02] [main/DEBUG]: Injecting coremod HechCore \{me.towdium.hecharacters.core.HechCore\} class transformers
+[12:13:02] [main/DEBUG]: Injection complete
+[12:13:02] [main/DEBUG]: Running coremod plugin for HechCore \{me.towdium.hecharacters.core.HechCore\}
+[12:13:02] [main/DEBUG]: Running coremod plugin HechCore
+[12:13:02] [main/DEBUG]: Coremod plugin class HechCore run successfully
+[12:13:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:13:02] [main/DEBUG]: Injecting coremod JechCore \{me.towdium.jecharacters.core.JechCore\} class transformers
+[12:13:02] [main/TRACE]: Registering transformer me.towdium.jecharacters.core.JechClassTransformer
+[12:13:02] [main/DEBUG]: Injection complete
+[12:13:02] [main/DEBUG]: Running coremod plugin for JechCore \{me.towdium.jecharacters.core.JechCore\}
+[12:13:02] [main/DEBUG]: Running coremod plugin JechCore
+[12:13:02] [main/DEBUG]: Coremod plugin class JechCore run successfully
+[12:13:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:13:02] [main/DEBUG]: Injecting coremod JeiUtilitiesLoadingPlugin \{com.github.vfyjxf.jeiutilities.asm.JeiUtilitiesLoadingPlugin\} class transformers
+[12:13:02] [main/TRACE]: Registering transformer com.github.vfyjxf.jeiutilities.asm.JeiUtilitiesClassTransformer
+[12:13:02] [main/DEBUG]: Injection complete
+[12:13:02] [main/DEBUG]: Running coremod plugin for JeiUtilitiesLoadingPlugin \{com.github.vfyjxf.jeiutilities.asm.JeiUtilitiesLoadingPlugin\}
+[12:13:02] [main/DEBUG]: Running coremod plugin JeiUtilitiesLoadingPlugin
+[12:13:02] [main/DEBUG]: Coremod plugin class JeiUtilitiesLoadingPlugin run successfully
+[12:13:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:13:02] [main/DEBUG]: Injecting coremod LoliASM \{zone.rong.loliasm.core.LoliLoadingPlugin\} class transformers
+[12:13:02] [main/DEBUG]: Injection complete
+[12:13:02] [main/DEBUG]: Running coremod plugin for LoliASM \{zone.rong.loliasm.core.LoliLoadingPlugin\}
+[12:13:02] [main/DEBUG]: Running coremod plugin LoliASM
+[12:13:02] [main/DEBUG]: Coremod plugin class LoliLoadingPlugin run successfully
+[12:13:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:13:02] [main/DEBUG]: Injecting coremod MiscTweaksPlugin \{coolsquid.misctweaks.asm.MiscTweaksPlugin\} class transformers
+[12:13:02] [main/TRACE]: Registering transformer coolsquid.misctweaks.asm.Transformer
+[12:13:02] [main/DEBUG]: Injection complete
+[12:13:02] [main/DEBUG]: Running coremod plugin for MiscTweaksPlugin \{coolsquid.misctweaks.asm.MiscTweaksPlugin\}
+[12:13:02] [main/DEBUG]: Running coremod plugin MiscTweaksPlugin
+[12:13:02] [main/DEBUG]: Coremod plugin class MiscTweaksPlugin run successfully
+[12:13:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:13:02] [main/DEBUG]: Injecting coremod non_update \{nonupdate.forge.NonUpdate\} class transformers
+[12:13:02] [main/DEBUG]: Injection complete
+[12:13:02] [main/DEBUG]: Running coremod plugin for non_update \{nonupdate.forge.NonUpdate\}
+[12:13:02] [main/DEBUG]: Running coremod plugin non_update
+[12:13:02] [main/DEBUG]: Coremod plugin class NonUpdate run successfully
+[12:13:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:13:02] [main/DEBUG]: Injecting coremod Players List Core Plugin \{austeretony.oxygen_playerslist.common.core.PlayersListCorePlugin\} class transformers
+[12:13:02] [main/TRACE]: Registering transformer austeretony.oxygen_playerslist.common.core.PlayersListClassTransformer
+[12:13:02] [main/DEBUG]: Injection complete
+[12:13:02] [main/DEBUG]: Running coremod plugin for Players List Core Plugin \{austeretony.oxygen_playerslist.common.core.PlayersListCorePlugin\}
+[12:13:02] [main/DEBUG]: Running coremod plugin Players List Core Plugin
+[12:13:02] [main/DEBUG]: Coremod plugin class PlayersListCorePlugin run successfully
+[12:13:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:13:02] [main/DEBUG]: Injecting coremod CoreMod \{youyihj.probezs.core.CoreMod\} class transformers
+[12:13:02] [main/TRACE]: Registering transformer youyihj.probezs.core.ProbeZSClassTransformer
+[12:13:02] [main/DEBUG]: Injection complete
+[12:13:02] [main/DEBUG]: Running coremod plugin for CoreMod \{youyihj.probezs.core.CoreMod\}
+[12:13:02] [main/DEBUG]: Running coremod plugin CoreMod
+[12:13:02] [main/DEBUG]: Coremod plugin class CoreMod run successfully
+[12:13:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:13:02] [main/DEBUG]: Injecting coremod LoadingPlugin \{codersafterdark.reskillable.base.asm.LoadingPlugin\} class transformers
+[12:13:02] [main/TRACE]: Registering transformer codersafterdark.reskillable.base.asm.ClassTransformer
+[12:13:02] [main/DEBUG]: Injection complete
+[12:13:02] [main/DEBUG]: Running coremod plugin for LoadingPlugin \{codersafterdark.reskillable.base.asm.LoadingPlugin\}
+[12:13:02] [main/DEBUG]: Running coremod plugin LoadingPlugin
+[12:13:02] [main/DEBUG]: Coremod plugin class LoadingPlugin run successfully
+[12:13:02] [main/INFO]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[12:13:02] [main/INFO]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@5f9f3e58
+[12:13:02] [main/DEBUG]: Injecting coremod MixinBooter \{zone.rong.mixinbooter.MixinBooterPlugin\} class transformers
+[12:13:02] [main/DEBUG]: Injection complete
+[12:13:02] [main/DEBUG]: Running coremod plugin for MixinBooter \{zone.rong.mixinbooter.MixinBooterPlugin\}
+[12:13:02] [main/DEBUG]: Running coremod plugin MixinBooter
+[12:13:02] [main/INFO]: Loading early loader com.cleanroommc.bogosorter.core.BogoSorterCore for its mixins.
+[12:13:02] [main/INFO]: Adding [mixin.bogosorter.json] mixin configuration.
+[12:13:02] [main/INFO]: Loading early loader zone.rong.loliasm.core.LoliLoadingPlugin for its mixins.
+[12:13:02] [main/INFO]: Adding [mixins.devenv.json] mixin configuration.
+[12:13:02] [main/INFO]: Adding [mixins.internal.json] mixin configuration.
+[12:13:02] [main/INFO]: Adding [mixins.vanities.json] mixin configuration.
+[12:13:02] [main/INFO]: Adding [mixins.registries.json] mixin configuration.
+[12:13:02] [main/INFO]: Adding [mixins.stripitemstack.json] mixin configuration.
+[12:13:02] [main/INFO]: Adding [mixins.lockcode.json] mixin configuration.
+[12:13:02] [main/INFO]: Adding [mixins.recipes.json] mixin configuration.
+[12:13:02] [main/INFO]: Adding [mixins.misc_fluidregistry.json] mixin configuration.
+[12:13:02] [main/INFO]: Adding [mixins.forgefixes.json] mixin configuration.
+[12:13:02] [main/INFO]: Adding [mixins.capability.json] mixin configuration.
+[12:13:02] [main/INFO]: Adding [mixins.efficienthashing.json] mixin configuration.
+[12:13:02] [main/INFO]: Adding [mixins.crashes.json] mixin configuration.
+[12:13:02] [main/INFO]: Adding [mixins.fix_mc129057.json] mixin configuration.
+[12:13:02] [main/INFO]: Adding [mixins.bucket.json] mixin configuration.
+[12:13:02] [main/INFO]: Adding [mixins.priorities.json] mixin configuration.
+[12:13:02] [main/INFO]: Adding [mixins.rendering.json] mixin configuration.
+[12:13:02] [main/INFO]: Adding [mixins.datastructures_modelmanager.json] mixin configuration.
+[12:13:02] [main/INFO]: Adding [mixins.screenshot.json] mixin configuration.
+[12:13:02] [main/INFO]: Adding [mixins.ondemand_sprites.json] mixin configuration.
+[12:13:02] [main/INFO]: Adding [mixins.searchtree_vanilla.json] mixin configuration.
+[12:13:02] [main/INFO]: Adding [mixins.resolve_mc2071.json] mixin configuration.
+[12:13:02] [main/INFO]: Adding [mixins.fix_mc_skindownloading.json] mixin configuration.
+[12:13:02] [main/INFO]: Adding [mixins.fix_mc186052.json] mixin configuration.
+[12:13:02] [main/INFO]: Loading early loader com.cleanroommc.modularui.core.ModularUICore for its mixins.
+[12:13:02] [main/INFO]: Adding [mixin.modularui.json] mixin configuration.
+[12:13:02] [main/INFO]: Loading early loader youyihj.zenutils.impl.core.ZenUtilsPlugin for its mixins.
+[12:13:02] [main/INFO]: Adding [mixins.zenutils.vanilla.json] mixin configuration.
+[12:13:02] [main/DEBUG]: Coremod plugin class MixinBooterPlugin run successfully
+[12:13:02] [main/DEBUG]: Injecting coremod customnpcs \{noppes.npcs.mixin.NpcMixinCore\} class transformers
+[12:13:02] [main/DEBUG]: Injection complete
+[12:13:02] [main/DEBUG]: Running coremod plugin for customnpcs \{noppes.npcs.mixin.NpcMixinCore\}
+[12:13:02] [main/DEBUG]: Running coremod plugin customnpcs
+[12:13:02] [main/DEBUG]: Coremod plugin class NpcMixinCore run successfully
+[12:13:02] [main/DEBUG]: Injecting coremod FMCore \{de.keksuccino.fancymenu.core.FMCore\} class transformers
+[12:13:02] [main/DEBUG]: Injection complete
+[12:13:02] [main/DEBUG]: Running coremod plugin for FMCore \{de.keksuccino.fancymenu.core.FMCore\}
+[12:13:02] [main/DEBUG]: Running coremod plugin FMCore
+[12:13:02] [main/DEBUG]: Coremod plugin class FMCore run successfully
+[12:13:02] [main/DEBUG]: Injecting coremod MixinLoader \{com.anthonyhilyard.highlighter.MixinLoader\} class transformers
+[12:13:02] [main/DEBUG]: Injection complete
+[12:13:02] [main/DEBUG]: Running coremod plugin for MixinLoader \{com.anthonyhilyard.highlighter.MixinLoader\}
+[12:13:02] [main/DEBUG]: Running coremod plugin MixinLoader
+[12:13:02] [main/DEBUG]: Coremod plugin class MixinLoader run successfully
+[12:13:02] [main/DEBUG]: Injecting coremod KonkreteCore \{de.keksuccino.konkrete.core.KonkreteCore\} class transformers
+[12:13:02] [main/DEBUG]: Injection complete
+[12:13:02] [main/DEBUG]: Running coremod plugin for KonkreteCore \{de.keksuccino.konkrete.core.KonkreteCore\}
+[12:13:02] [main/DEBUG]: Running coremod plugin KonkreteCore
+[12:13:02] [main/DEBUG]: Coremod plugin class KonkreteCore run successfully
+[12:13:02] [main/INFO]: Calling tweak class i18nupdatemod.launchwrapper.LaunchWrapperTweaker
+[12:13:02] [main/INFO]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
+[12:13:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[12:13:02] [main/INFO]: The lolis are now preparing to bytecode manipulate your game.
+[12:13:02] [main/INFO]: Adding class net.minecraft.client.renderer.block.model.BakedQuad to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraft.client.renderer.block.model.BakedQuadRetextured to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraftforge.client.model.pipeline.UnpackedBakedQuad to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraftforge.client.model.pipeline.UnpackedBakedQuad$Builder to the transformation queue
+[12:13:02] [main/INFO]: Adding class zone.rong.loliasm.bakedquad.BakedQuadFactory to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraft.client.renderer.block.model.ModelResourceLocation to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraft.client.audio.SoundEventAccessor to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraft.client.audio.SoundRegistry to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraftforge.client.model.ModelLoader to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraft.client.renderer.block.statemap.StateMapperBase to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraft.client.renderer.BlockModelShapes to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraft.client.renderer.block.statemap.BlockStateMapper to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraft.client.renderer.RenderGlobal to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraft.client.renderer.RenderHelper to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraft.client.renderer.texture.TextureAtlasSprite to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraft.client.Minecraft to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraft.client.network.NetHandlerPlayClient to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraft.client.renderer.RenderGlobal to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraft.client.renderer.chunk.RenderChunk to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraft.util.ResourceLocation to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraft.util.registry.RegistrySimple to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraft.nbt.NBTTagString to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraftforge.fml.common.discovery.ModCandidate to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraftforge.fml.common.discovery.ASMDataTable$ASMData to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraft.item.ItemStack to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraft.item.crafting.FurnaceRecipes to the transformation queue
+[12:13:02] [main/INFO]: Adding class hellfirepvp.astralsorcery.common.enchantment.amulet.PlayerAmuletHandler to the transformation queue
+[12:13:02] [main/INFO]: Adding class mezz.jei.suffixtree.Edge to the transformation queue
+[12:13:02] [main/INFO]: Adding class betterwithmods.event.BlastingOilEvent to the transformation queue
+[12:13:02] [main/INFO]: Adding class betterwithmods.common.items.ItemMaterial to the transformation queue
+[12:13:02] [main/INFO]: Adding class lach_01298.qmd.render.entity.BeamRenderer to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.dries007.tfc.objects.entity.EntityFallingBlockTFC to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraft.item.ItemStack to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraft.client.renderer.EntityRenderer to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraft.client.renderer.EntityRenderer to the transformation queue
+[12:13:02] [main/INFO]: Adding class net.minecraft.nbt.NBTTagCompound to the transformation queue
+[12:13:02] [main/DEBUG]: Validating minecraft
+[12:13:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:13:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:13:02] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[12:13:02] [main/INFO]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[12:13:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[12:13:02] [main/INFO]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[12:13:02] [main/INFO]: Predefining BakedQuad variants.
+[12:13:02] [main/INFO]: Defining NewBakedQuadCallsRedirector Mixin. With these mixin targets: [net.minecraft.client.renderer.block.model.FaceBakery]
+[12:13:02] [main/INFO]: Minecraft <GuiIngame.class> patched!
+[12:13:03] [main/INFO]: Applying cpm transformer: net.minecraft.client.network.NetHandlerPlayClient
+[12:13:03] [main/INFO]: CPM ClientNet Hook: Found handleCustomPayload
+[12:13:03] [main/INFO]: CPM ClientNet Hook: injected
+[12:13:03] [main/INFO]: CPM ClientNet/hasMod: injected
+[12:13:03] [main/INFO]: CPM ClientNet/setHasMod: injected
+[12:13:03] [main/INFO]: A re-entrant transformer '$wrapper.com.tom.cpmcore.CPMTransformerService' was detected and will no longer process meta class data
+[12:13:03] [main/INFO]: [KONKRETE] APPLYING MIXIN: de.keksuccino.konkrete.mixin.client.MixinMinecraft | TO TARGET: net.minecraft.client.Minecraft
+[12:13:03] [main/INFO]: Patching net.minecraft.client.Minecraft... (bib)
+[12:13:03] [main/INFO]: A re-entrant transformer 'guichaguri.betterfps.transformers.PatcherTransformer' was detected and will no longer process meta class data
+[12:13:03] [main/INFO]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.IMixinStyle | TO TARGET: net.minecraft.util.text.Style
+[12:13:03] [main/INFO]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.IMixinChatScreen | TO TARGET: net.minecraft.client.gui.GuiChat
+[12:13:03] [main/INFO]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.IMixinGuiTextField | TO TARGET: net.minecraft.client.gui.GuiTextField
+[12:13:03] [main/INFO]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.IMixinServerList | TO TARGET: net.minecraft.client.multiplayer.ServerList
+[12:13:03] [main/INFO]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinConnectScreen | TO TARGET: net.minecraft.client.gui.GuiMultiplayer
+[12:13:03] [main/INFO]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinGuiButton | TO TARGET: net.minecraft.client.gui.GuiButton
+[12:13:03] [main/INFO]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinGuiButtonImage | TO TARGET: net.minecraft.client.gui.GuiButtonImage
+[12:13:03] [main/INFO]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinGuiButtonLanguage | TO TARGET: net.minecraft.client.gui.GuiButtonLanguage
+[12:13:03] [main/INFO]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinGuiScreen | TO TARGET: net.minecraft.client.gui.GuiScreen
+[12:13:03] [main/INFO]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinGuiScreenResourcePacks | TO TARGET: net.minecraft.client.gui.GuiScreenResourcePacks
+[12:13:03] [main/INFO]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinGuiSlot | TO TARGET: net.minecraft.client.gui.GuiSlot
+[12:13:03] [main/INFO]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinMinecraft | TO TARGET: net.minecraft.client.Minecraft
+[12:13:03] [main/INFO]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinOnlineServerEntry | TO TARGET: net.minecraft.client.gui.ServerListEntryNormal
+[12:13:03] [main/INFO]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinScaledResolution | TO TARGET: net.minecraft.client.gui.ScaledResolution
+[12:13:03] [main/INFO]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinWorldListEntry | TO TARGET: net.minecraft.client.gui.GuiListWorldSelectionEntry
+[12:13:03] [main/ERROR]: Critical problem: customnpcs.mixins.json:fml.common.eventhandler.EventMixin from owner customnpcs target net.minecraftforge.fml.common.eventhandler.Event was loaded too early.
+[12:13:03] [main/INFO]: Applied EntityPlayer interactOn ASM
+[12:13:03] [main/INFO]: Applied EntityPlayer interactOn ASM
+[12:13:03] [main/INFO]: Applied EntityPlayer interactOn ASM
+[12:13:03] [main/INFO]: Applied EntityPlayer attackTargetEntityWithCurrentItem ASM
+[12:13:03] [main/INFO]: A re-entrant transformer 'com.cleanroommc.bogosorter.core.BogoSorterTransformer' was detected and will no longer process meta class data
+[12:13:03] [main/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.tileentity.TileEntity.func_190559_a
+[12:13:03] [main/INFO]: Transforming class bmp for string contains.
+[12:13:03] [main/INFO]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/client/renderer/texture/TextureAtlasSprite to pl/asie/foamfix/client/FastTextureAtlasSprite
+[12:13:03] [main/INFO]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/client/renderer/texture/TextureAtlasSprite to pl/asie/foamfix/client/FastTextureAtlasSprite
+[12:13:03] [main/INFO]: A re-entrant transformer '$wrapper.pl.asie.foamfix.coremod.FoamFixTransformer' was detected and will no longer process meta class data
+[12:13:03] [main/INFO]: Improving FurnaceRecipes. Lookups are now a lot faster.
+[12:13:03] [main/INFO]: Transforming EnumFacing::values() to EnumFacing::VALUES in net/minecraft/client/renderer/RenderGlobal
+[12:13:03] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[12:13:03] [main/INFO]: Applying cpm transformer: net.minecraft.client.Minecraft
+[12:13:03] [main/INFO]: CPM ClientLogout Hook: Found loadWorld
+[12:13:03] [main/INFO]: CPM ClientLogout Hook: injected
+[12:13:03] [main/INFO]: Patching net.minecraft.client.Minecraft... (bib)
+[12:13:03] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0-rc.1).
+[12:13:03] [main/INFO]: Injecting calls in net/minecraft/util/ResourceLocation<init> to canonicalize strings
+[12:13:03] [main/INFO]: Injecting calls in net/minecraft/util/ResourceLocation<init> to canonicalize strings
+[12:13:03] [main/INFO]: Transforming class cgw for vanilla SuffixArray.
+[12:13:03] [main/INFO]: Transforming constructor of net/minecraft/client/util/SuffixArray to me/towdium/jecharacters/util/Match$FakeArray in method <init>.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of cgx to me/towdium/jecharacters/util/Match$FakeArray in method <init>.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of cgz to me/towdium/jecharacters/util/Match$FakeArray in method <init>.
+[12:13:03] [main/INFO]: Transformed 2 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of net/minecraft/client/util/SuffixArray to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of cgx to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of cgz to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 2 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of net/minecraft/client/util/SuffixArray to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of cgx to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of cgz to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of net/minecraft/client/util/SuffixArray to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of cgx to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of cgz to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of net/minecraft/client/util/SuffixArray to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of cgx to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of cgz to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of net/minecraft/client/util/SuffixArray to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of cgx to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of cgz to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
+[12:13:03] [main/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:141]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
+[12:13:03] [main/INFO]: Applied EntityPlayer interactOn ASM
+[12:13:03] [main/INFO]: Applied EntityPlayer interactOn ASM
+[12:13:03] [main/INFO]: Applied EntityPlayer interactOn ASM
+[12:13:03] [main/INFO]: Applied EntityPlayer attackTargetEntityWithCurrentItem ASM
+[12:13:03] [main/INFO]: Patching math utils with "RIVENS_HALF" algorithm
+[12:13:03] [main/INFO]: Patching net.minecraft.client.entity.EntityPlayerSP... (bud)
+[12:13:03] [main/INFO]: Transforming class cgw for vanilla SuffixArray.
+[12:13:03] [main/INFO]: Transforming constructor of net/minecraft/client/util/SuffixArray to me/towdium/jecharacters/util/Match$FakeArray in method <init>.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of cgx to me/towdium/jecharacters/util/Match$FakeArray in method <init>.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of cgz to me/towdium/jecharacters/util/Match$FakeArray in method <init>.
+[12:13:03] [main/INFO]: Transformed 2 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of net/minecraft/client/util/SuffixArray to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of cgx to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of cgz to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 2 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of net/minecraft/client/util/SuffixArray to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of cgx to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of cgz to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of net/minecraft/client/util/SuffixArray to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of cgx to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of cgz to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of net/minecraft/client/util/SuffixArray to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of cgx to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of cgz to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of net/minecraft/client/util/SuffixArray to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of cgx to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Transforming constructor of cgz to me/towdium/jecharacters/util/Match$FakeArray in method a.
+[12:13:03] [main/INFO]: Transformed 0 occurrences.
+[12:13:03] [main/INFO]: Minecraft <GuiIngame.class> patched!
+[12:13:04] [main/INFO]: Minecraft <GuiIngameForge.class> patched!
+[12:13:04] [main/INFO]: Injecting calls in net/minecraft/util/ResourceLocation<init> to canonicalize strings
+[12:13:04] [main/INFO]: Injecting calls in net/minecraft/util/ResourceLocation<init> to canonicalize strings
+[12:13:04] [Client thread/INFO]: [pl.asie.foamfix.coremod.patches.WorldServerRemovalPatch:apply:57]: Patched updateEntities in net/minecraft/world/WorldServer func_72939_s
+[12:13:04] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.client.util.SearchTreeManager.func_110549_a
+[12:13:04] [Client thread/INFO]: Setting user: PotatoChampion
+[12:13:04] [Client thread/INFO]: Patching net.minecraft.block.Block... (aow)
+[12:13:04] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.state.BlockStateContainer.createState
+[12:13:04] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.state.BlockStateContainer.foamfix_mapper
+[12:13:04] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.equals
+[12:13:04] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.hashCode
+[12:13:04] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode
+[12:13:04] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode_calced
+[12:13:04] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyInteger.hashCode
+[12:13:04] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode
+[12:13:04] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode_calced
+[12:13:04] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.equals
+[12:13:04] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.hashCode
+[12:13:04] [Client thread/INFO]: Patching math utils with "RIVENS_HALF" algorithm
+[12:13:04] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.tileentity.TileEntity.func_190559_a
+[12:13:04] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.BlockBed.func_189540_a
+[12:13:04] [Client thread/INFO]: [pl.asie.foamfix.coremod.patches.GhostBusterBlockStateAccessPatch$FFMethodVisitor:visitMethodInsn:93]: Added ghost buster patch (getBlockState call wrapped) in net/minecraft/block/BlockFarmland func_176530_e (net/minecraft/world/World func_180495_p (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/block/state/IBlockState;)
+[12:13:04] [Client thread/INFO]: Patching net.minecraft.tileentity.TileEntityBeacon... (avh)
+[12:13:04] [Client thread/INFO]: Patching net.minecraft.block.BlockHopper... (arl)
+[12:13:04] [Client thread/INFO]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[12:13:04] [Client thread/INFO]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[12:13:04] [Client thread/INFO]: Patching net.minecraft.tileentity.TileEntityHopper... (avw)
+[12:13:05] [Client thread/INFO]: [pl.asie.foamfix.coremod.patches.GhostBusterDefinitionPatch:apply:136]: Added ghost buster patch (radius = 4) in net/minecraftforge/fluids/BlockFluidClassic func_180650_b
+[12:13:05] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/api/IFoamFixMobSpawnerLogic
+[12:13:05] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.tileentity.MobSpawnerBaseLogic.func_98279_f
+[12:13:05] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCache
+[12:13:05] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCachePESize
+[12:13:05] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCacheTime
+[12:13:05] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_forcedCache
+[12:13:05] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_forcedCacheTime
+[12:13:05] [Client thread/INFO]: Improving FurnaceRecipes. Lookups are now a lot faster.
+[12:13:05] [BetterFps Update Checker/INFO]: Release: widget.mcf.li:-1
+[12:13:05] [Client thread/INFO]: LWJGL Version: 2.9.4
+[12:13:05] [BetterFps Update Checker/INFO]: Check: widget.mcf.li:80
+[12:13:05] [BetterFps Update Checker/INFO]: Redirect: widget.mcf.li -> 0.0.0.0
+[12:13:05] [BetterFps Update Checker/INFO]: Release: 0.0.0.0:80
+[12:13:05] [BetterFps Update Checker/INFO]: Release: 0.0.0.0:80
+[12:13:05] [BetterFps Update Checker/INFO]: Release: Potato-Champion:-1
+[12:13:06] [Client thread/INFO]: -- System Details --
+  Minecraft Version: 1.12.2
+  Operating System: Windows 11 (amd64) version 10.0
+  Java Version: 1.8.0_461, Oracle Corporation
+  Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+  Memory: 266239296 bytes (253 MB) / 536870912 bytes (512 MB) up to 16911433728 bytes (16128 MB)
+  JVM Flags: 18 total; -Xmx16128m -XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:+UseG1GC -XX:G1MixedGCCountTarget=5 -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32m -XX:-OmitStackTraceInFastThrow -XX:MaxInlineLevel=15 -XX:-DontCompileHugeMethods -XX:MaxNodeLimit=240000 -XX:NodeLimitFudgeFactor=8000 -XX:TieredCompileTaskTimeout=10000 -XX:ReservedCodeCacheSize=400M -XX:NmethodSweepActivity=1 -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+  IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+  FML: 
+  Loaded coremods (and transformers): customnpcs (Custom NPCs 1.12.2 Unofficial-v.4.431-08Aug2025-Snapshot.jar)
+                                        
+                                      CoreMod (ProbeZS-1.18.8.jar)
+                                        youyihj.probezs.core.ProbeZSClassTransformer
+                                      Players List Core Plugin (oxygen-players-list-1.12.2-0.11.1.jar)
+                                        austeretony.oxygen_playerslist.common.core.PlayersListClassTransformer
+                                      Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (foamfix-0.10.15-1.12.2.jar)
+                                        pl.asie.foamfix.coremod.FoamFixTransformer
+                                      BogoSorter-Core (bogosorter-1.4.11.jar)
+                                        
+                                      KonkreteCore (konkrete_forge_1.6.1_MC_1.12-1.12.2.jar)
+                                        
+                                      LoadingPlugin (Reskillable-1.12.2-1.13.1.jar)
+                                        codersafterdark.reskillable.base.asm.ClassTransformer
+                                      ZenUtilsPlugin (zenutils-1.25.8.jar)
+                                        youyihj.zenutils.impl.config.ClassProvider
+                                      CPMLoadingPlugin (CustomPlayerModels-1.12.2-0.6.24a.jar)
+                                        com.tom.cpmcore.CPMTransformerService
+                                      LoliASM (loliasm-5.29.jar)
+                                        
+                                      JechCore (jecharacters-1.12.0-3.7.2.jar)
+                                        me.towdium.jecharacters.core.JechClassTransformer
+                                      MiscTweaksPlugin (MiscTweaks-1.12.2-1.5.0.jar)
+                                        coolsquid.misctweaks.asm.Transformer
+                                      JeiUtilitiesLoadingPlugin (JEI-Utilities-1.12.2-0.2.13.jar)
+                                        com.github.vfyjxf.jeiutilities.asm.JeiUtilitiesClassTransformer
+                                      non_update (NonUpdate-AllMCVersion-Final-2.0.2-universal.jar)
+                                        
+                                      ModularUI-Core (modularui-2.5.0-rc6.jar)
+                                        com.cleanroommc.modularui.core.ClassTransformer
+                                      FMCore (fancymenu_forge_2.14.9_MC_1.12-1.12.2.jar)
+                                        
+                                      MixinBooter (!mixinbooter-10.6.jar)
+                                        
+                                      MixinLoader (Highlighter-1.12.2-forge-1.1.7.jar)
+                                        
+                                      HechCore (hecharacters-1.12.2-1.4.1.jar)
+                                        
+                                      ConfigAnytimePlugin (!configanytime-3.0.jar)
+  GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 566.07' Renderer: 'NVIDIA GeForce RTX 4090 Laptop GPU/PCIe/SSE2'
+  Suspected Mods: Unknown
+
+[12:13:06] [Client thread/INFO]: MinecraftForge v14.23.5.2860 Initialized
+[12:13:06] [Client thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[12:13:06] [Client thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[12:13:06] [Client thread/INFO]: Replaced 1227 ore ingredients
+[12:13:07] [Client thread/INFO]: Initializing MixinBooter's Mod Container.
+[12:13:07] [Client thread/INFO]: Searching E:\RPG开发\.minecraft\versions\rpgwip\mods for mods
+[12:13:07] [Client thread/WARN]: Mod customplayermodels is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.6.24a
+[12:13:07] [Client thread/WARN]: Mod fancymenu is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.14.9
+[12:13:07] [Client thread/WARN]: Mod konkrete is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.6.1
+[12:13:07] [Client thread/INFO]: Forge Mod Loader has identified 74 mods to load
+[12:13:07] [Client thread/WARN]: ****************************************
+[12:13:07] [Client thread/WARN]: * The API armourers_workshop_api from source E:\RPG开发\.minecraft\versions\rpgwip\mods\Custom NPCs 1.12.2 Unofficial-v.4.431-08Aug2025-Snapshot.jar is loaded from an incompatible classloader. THIS WILL NOT WORK!
+[12:13:07] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModAPIManager$APIContainer.validate(ModAPIManager.java:114)
+[12:13:07] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModAPIManager.registerDataTableAndParseAPI(ModAPIManager.java:174)
+[12:13:07] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModAPIManager.manageAPI(ModAPIManager.java:232)
+[12:13:07] [Client thread/WARN]: *  at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:569)
+[12:13:07] [Client thread/WARN]: *  at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:232)
+[12:13:07] [Client thread/WARN]: *  at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:467)...
+[12:13:07] [Client thread/WARN]: ****************************************
+[12:13:07] [Client thread/INFO]: FML has found a non-mod file JEIHider-1.1c.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[12:13:07] [Client thread/INFO]: FML has found a non-mod file NonUpdate-AllMCVersion-Final-2.0.2-universal.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[12:13:07] [Client thread/INFO]: Loading late loader [zone.rong.loliasm.core.LoliLateMixinLoader] for its mixins.
+[12:13:07] [Client thread/INFO]: Loading late loader [youyihj.probezs.core.LateMixinInit] for its mixins.
+[12:13:07] [Client thread/INFO]: Loading late loader [com.cleanroommc.bogosorter.LateMixin] for its mixins.
+[12:13:07] [Client thread/INFO]: Loading late loader [com.cleanroommc.modularui.core.LateMixins] for its mixins.
+[12:13:07] [Client thread/INFO]: Loading late loader [youyihj.zenutils.impl.core.MixinInit] for its mixins.
+[12:13:07] [Client thread/INFO]: Adding [mixins.bakedquadsquasher.json] mixin configuration.
+[12:13:07] [Client thread/INFO]: Adding [mixins.searchtree_mod.json] mixin configuration.
+[12:13:07] [Client thread/INFO]: Adding [mixins.modfixes_disable_broken_particles.json] mixin configuration.
+[12:13:07] [Client thread/INFO]: Adding [mixin.modularui.jei.json] mixin configuration.
+[12:13:08] [Client thread/INFO]: Adding [mixins.zenutils.json] mixin configuration.
+[12:13:08] [Client thread/INFO]: Adding [mixins.probezs.json] mixin configuration.
+[12:13:08] [BetterFps Update Checker/WARN]: Could not check for updates: Connection refused: connect
+[12:13:08] [Client thread/WARN]: Reference map 'mixins.probezs.refmap.json' for mixins.probezs.json could not be read. If this is a development environment you can ignore this message
+[12:13:08] [Client thread/WARN]: Error loading class: epicsquid/mysticallib/hax/Hax (java.lang.ClassNotFoundException: The specified class 'epicsquid.mysticallib.hax.Hax' was not found)
+[12:13:08] [Client thread/WARN]: Error loading class: codechicken/multipart/BlockMultipart (java.lang.ClassNotFoundException: The specified class 'codechicken.multipart.BlockMultipart' was not found)
+[12:13:08] [Client thread/WARN]: Error loading class: buildcraft/transport/block/BlockPipeHolder (java.lang.ClassNotFoundException: The specified class 'buildcraft.transport.block.BlockPipeHolder' was not found)
+[12:13:08] [Client thread/WARN]: Error loading class: mrtjp/projectred/illumination/BlockLamp (java.lang.ClassNotFoundException: The specified class 'mrtjp.projectred.illumination.BlockLamp' was not found)
+[12:13:08] [Client thread/WARN]: Error loading class: mrtjp/projectred/expansion/BlockMachine (java.lang.ClassNotFoundException: The specified class 'mrtjp.projectred.expansion.BlockMachine' was not found)
+[12:13:08] [Client thread/WARN]: Error loading class: mrtjp/projectred/relocation/BlockFrame (java.lang.ClassNotFoundException: The specified class 'mrtjp.projectred.relocation.BlockFrame' was not found)
+[12:13:08] [Client thread/WARN]: Error loading class: mrtjp/projectred/exploration/BlockDecorativeWall (java.lang.ClassNotFoundException: The specified class 'mrtjp.projectred.exploration.BlockDecorativeWall' was not found)
+[12:13:08] [Client thread/WARN]: Error loading class: mrtjp/projectred/fabrication/BlockICMachine (java.lang.ClassNotFoundException: The specified class 'mrtjp.projectred.fabrication.BlockICMachine' was not found)
+[12:13:08] [Client thread/WARN]: Error loading class: thefloydman/moremystcraft/block/BlockLockedLectern (java.lang.ClassNotFoundException: The specified class 'thefloydman.moremystcraft.block.BlockLockedLectern' was not found)
+[12:13:08] [Client thread/WARN]: Error loading class: thefloydman/moremystcraft/block/BlockLockedBookstand (java.lang.ClassNotFoundException: The specified class 'thefloydman.moremystcraft.block.BlockLockedBookstand' was not found)
+[12:13:08] [Client thread/WARN]: Error loading class: buildcraft/lib/engine/BlockEngineBase_BC8 (java.lang.ClassNotFoundException: The specified class 'buildcraft.lib.engine.BlockEngineBase_BC8' was not found)
+[12:13:08] [Client thread/WARN]: Error loading class: buildcraft/factory/block/BlockDistiller (java.lang.ClassNotFoundException: The specified class 'buildcraft.factory.block.BlockDistiller' was not found)
+[12:13:08] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, hecharacters, jecharacters, mixinbooter, foamfixcore, equipmentcompare, graphene, configanytime, armorcurve, armourers_workshop, attributefix, base, baubles, bogosorter, classicbar, contenttweaker, controlling, ctgui, crafttweaker, crafttweakerjei, customnpcs, customcursormod, customplayermodels, ding, exhaustedstamina, fancymenu, fastfurnace, fastbench, foamfix, ftbbackups, grandeconomy, jei, highlighter, inventoryhud, itemzoom, jeiutilities, justenoughdimensions, konkrete, legendarytooltips, loliasm, mapgadgets, misctweaks, modularui, moreplayermodels, nodami, norecipebook, oxygen_core, oxygen_cp_ge, oxygen_dailyrewards, oxygen_exchange, oxygen_friendslist, oxygen_groups, oxygen_mail, oxygen_market, oxygen_menu, oxygen_merchants, oxygen_pinteraction, oxygen_playerslist, oxygen_shop, oxygen_store, oxygen_teleportation, placebo, probezs, reskillable, theoneprobe, toastcontrol, topaddons, torohealthmod, trajectory_preview, worldedit, zenutils] at CLIENT
+[12:13:08] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, hecharacters, jecharacters, mixinbooter, foamfixcore, equipmentcompare, graphene, configanytime, armorcurve, armourers_workshop, attributefix, base, baubles, bogosorter, classicbar, contenttweaker, controlling, ctgui, crafttweaker, crafttweakerjei, customnpcs, customcursormod, customplayermodels, ding, exhaustedstamina, fancymenu, fastfurnace, fastbench, foamfix, ftbbackups, grandeconomy, jei, highlighter, inventoryhud, itemzoom, jeiutilities, justenoughdimensions, konkrete, legendarytooltips, loliasm, mapgadgets, misctweaks, modularui, moreplayermodels, nodami, norecipebook, oxygen_core, oxygen_cp_ge, oxygen_dailyrewards, oxygen_exchange, oxygen_friendslist, oxygen_groups, oxygen_mail, oxygen_market, oxygen_menu, oxygen_merchants, oxygen_pinteraction, oxygen_playerslist, oxygen_shop, oxygen_store, oxygen_teleportation, placebo, probezs, reskillable, theoneprobe, toastcontrol, topaddons, torohealthmod, trajectory_preview, worldedit, zenutils] at SERVER
+[12:13:08] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.network.PacketBuffer.func_180714_a
+[12:13:08] [Client thread/INFO]: Applied net.minecraft.network.PacketBuffer ASM from ModularUI
+[12:13:08] [Client thread/INFO]: Applying cpm transformer: net.minecraft.client.model.ModelBiped
+[12:13:08] [Client thread/INFO]: CPM Armor Hook/No setup: found setRotationAngles method
+[12:13:08] [Client thread/INFO]: CPM Armor Hook/No setup: injected
+[12:13:08] [Client thread/INFO]: Transforming EnumFacing::values() to EnumFacing::VALUES in net/minecraft/client/renderer/RenderGlobal
+[12:13:08] [Thread-5/INFO]: Release: blamejared.com:-1
+[12:13:08] [Thread-5/INFO]: Check: blamejared.com:443
+[12:13:08] [Thread-5/INFO]: Redirect: blamejared.com -> 0.0.0.0
+[12:13:08] [Thread-5/INFO]: Release: 0.0.0.0:443
+[12:13:08] [Thread-5/INFO]: Release: 0.0.0.0:443
+[12:13:08] [Thread-5/INFO]: Release: Potato-Champion:-1
+[12:13:08] [Client thread/INFO]: [pl.asie.foamfix.coremod.patches.ReturnIfBooleanTruePatch:apply:89]: Added return if option true in net/minecraft/client/renderer/texture/TextureMap func_94248_c
+[12:13:08] [Client thread/INFO]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/client/renderer/texture/TextureAtlasSprite to pl/asie/foamfix/client/FastTextureAtlasSprite
+[12:13:08] [Client thread/INFO]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/client/renderer/texture/TextureAtlasSprite to pl/asie/foamfix/client/FastTextureAtlasSprite
+[12:13:08] [Thread-3/INFO]: Using sync timing. 200 frames of Display.update took 43057800 nanos
+[12:13:08] [Client thread/INFO]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[12:13:08] [Client thread/INFO]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[12:13:09] [Client thread/INFO]: Patching net.minecraft.client.renderer.EntityRenderer... (buq)
+[12:13:09] [Client thread/INFO]: [pl.asie.foamfix.coremod.patches.ModelLoaderCleanupPatch:apply:99]: Added ModelLoader cleanup patch (1 occurences).
+[12:13:09] [Client thread/ERROR]: The mod customcursormod appears to have an invalid event annotation EventHandler. This annotation can only apply to methods with recognized event arguments - it will not be called
+[12:13:09] [Client thread/INFO]: [KONKRETE] Successfully initialized!
+[12:13:09] [Client thread/INFO]: [KONKRETE] Server-side libs ready to use!
+[12:13:10] [Client thread/INFO]: [FANCYMENU] Loading v2.14.9 in client-side mode!
+[12:13:10] [Client thread/INFO]: [FANCYMENU] Level registry interactions allowed!
+[12:13:10] [Client thread/INFO]: Reloading ResourceManager: BetterFps, Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Had Enough Characters, FMLFileResourcePack:Just Enough Characters, FMLFileResourcePack:Equipment Compare, FMLFileResourcePack:Graphene, FMLFileResourcePack:ConfigAnytime, FMLFileResourcePack:Armor Curve, FMLFileResourcePack:Armourer's Workshop, FMLFileResourcePack:Attribute Fix, FMLFileResourcePack:B.A.S.E, FMLFileResourcePack:Baubles, FMLFileResourcePack:Inventory Bogo Sorter, FMLFileResourcePack:ClassicBar Legacy, FMLFileResourcePack:ContentTweaker, FMLFileResourcePack:Controlling, FMLFileResourcePack:CT-GUI, FMLFileResourcePack:CraftTweaker2, FMLFileResourcePack:CraftTweaker JEI Support, FMLFileResourcePack:Custom NPCs, FMLFileResourcePack:Custom Cursor Mod, FMLFileResourcePack:Customizable Player Models, FMLFileResourcePack:Ding, FMLFileResourcePack:Exhausted Stamina, FMLFileResourcePack:FancyMenu, FMLFileResourcePack:FastFurnace, FMLFileResourcePack:FastWorkbench, FMLFileResourcePack:FoamFix, FMLFileResourcePack:FTB Backups, FMLFileResourcePack:Grand Economy, FMLFileResourcePack:Had Enough Items, FMLFileResourcePack:Highlighter, FMLFileResourcePack:Inventory HUD+, FMLFileResourcePack:Item Zoom, FMLFileResourcePack:JEI Utilities, FMLFileResourcePack:Just Enough Dimensions, FMLFileResourcePack:Konkrete, FMLFileResourcePack:Legendary Tooltips, FMLFileResourcePack:LoliASM, FMLFileResourcePack:Mapmaker's Gadgets, FMLFileResourcePack:MiscTweaks, FMLFileResourcePack:ModularUI, FMLFileResourcePack:MorePlayerModels, FMLFileResourcePack:No Damage Immunity (NoDamI), FMLFileResourcePack:No Recipe Book, FMLFileResourcePack:Oxygen Core, FMLFileResourcePack:Grand Economy Currency Provider, FMLFileResourcePack:Oxygen: Daily Rewards, FMLFileResourcePack:Oxygen: Exchange, FMLFileResourcePack:Oxygen: Friends List, FMLFileResourcePack:Oxygen: Groups, FMLFileResourcePack:Oxygen: Mail, FMLFileResourcePack:Oxygen: Market, FMLFileResourcePack:Oxygen: Menu, FMLFileResourcePack:Oxygen: Merchants, FMLFileResourcePack:Oxygen: Player Interaction, FMLFileResourcePack:Oxygen: Players List, FMLFileResourcePack:Oxygen: Shop, FMLFileResourcePack:Oxygen: Store, FMLFileResourcePack:Oxygen: Teleportation, FMLFileResourcePack:Placebo, FMLFileResourcePack:ProbeZS, FMLFileResourcePack:Reskillable, FMLFileResourcePack:The One Probe, FMLFileResourcePack:Toast Control, FMLFileResourcePack:TOP Addons, FMLFileResourcePack:ToroHealth Damage Indicators, FMLFileResourcePack:Trajectory Preview, FMLFileResourcePack:WorldEdit, FMLFileResourcePack:ZenUtils, resources, Minecraft-Mod-Language-Modpack.zip
+[12:13:10] [Client thread/INFO]: Processing ObjectHolder annotations
+[12:13:10] [Client thread/INFO]: Found 1220 ObjectHolder annotations
+[12:13:10] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[12:13:10] [Client thread/INFO]: Found 1 ItemStackHolder annotations
+[12:13:10] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[12:13:10] [Forge Version Check/INFO]: [misctweaks] Starting version check at https://gist.githubusercontent.com/coolsquid/15f17615b4a2d493ec38399c4ec6489f/raw/e493499854250efee3f2adab276a1e15d8cd9f7d/misctweaks.json
+[12:13:10] [Forge Version Check/INFO]: Release: gist.githubusercontent.com:-1
+[12:13:10] [Client thread/INFO]: Loading Armourer's Workshop version 1.12.2-0.51.0.
+[12:13:10] [Client thread/INFO]: Loading addons
+[12:13:10] [Forge Version Check/INFO]: Check: gist.githubusercontent.com:443
+[12:13:10] [Forge Version Check/INFO]: Redirect: gist.githubusercontent.com -> 0.0.0.0
+[12:13:10] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:10] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:10] [Forge Version Check/INFO]: Release: Potato-Champion:-1
+[12:13:10] [Client thread/INFO]: Loading CustomNPC Compatibility Addon
+[12:13:10] [Client thread/INFO]: Loading Just Enough Items Compatibility Addon
+[12:13:10] [Client thread/INFO]: Loading Minecraft Compatibility Addon
+[12:13:10] [Client thread/INFO]: Loading More Player Models Compatibility Addon
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: java.net.ConnectException: Connection refused: connect
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at java.net.TwoStacksPlainSocketImpl.socketConnect(Native Method)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at java.net.PlainSocketImpl.connect(Unknown Source)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at java.net.SocksSocketImpl.connect(Unknown Source)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at java.net.Socket.connect(Unknown Source)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at sun.security.ssl.SSLSocketImpl.connect(Unknown Source)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at sun.net.NetworkClient.doConnect(Unknown Source)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at sun.net.www.protocol.https.HttpsClient.<init>(Unknown Source)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at sun.net.www.protocol.https.HttpsClient.New(Unknown Source)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(Unknown Source)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at java.security.AccessController.doPrivileged(Native Method)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(Unknown Source)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at java.security.AccessController.doPrivileged(Native Method)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at crafttweaker.mc1120.CraftTweaker.lambda$onConstruction$1(MixinCraftTweaker.java:104)
+[12:13:10] [Thread-5/INFO]: [crafttweaker.mc1120.CraftTweaker:lambda$onConstruction$1:108]: 	at java.lang.Thread.run(Unknown Source)
+[12:13:11] [Client thread/INFO]: user home: C:\Users\PotatoChampion
+[12:13:11] [Client thread/INFO]: Extracting file Angel Wings
+[12:13:11] [Client thread/INFO]: Extracting file Arbalest
+[12:13:11] [Client thread/INFO]: Extracting file Arrow
+[12:13:11] [Client thread/INFO]: Extracting file Barrel
+[12:13:11] [Client thread/INFO]: Extracting file Bat Wings
+[12:13:11] [Client thread/INFO]: Extracting file Butterfly Wings
+[12:13:11] [Client thread/INFO]: Extracting file Chessboard
+[12:13:11] [Client thread/INFO]: Extracting file Dress Shoes
+[12:13:11] [Client thread/INFO]: Extracting file Dress Skirt
+[12:13:11] [Client thread/INFO]: Extracting file Dress Top
+[12:13:11] [Client thread/INFO]: Extracting file Evil Wings
+[12:13:11] [Client thread/INFO]: Extracting file Fez
+[12:13:11] [Client thread/INFO]: Extracting file Fox Ears
+[12:13:11] [Client thread/INFO]: Extracting file Glass Chair
+[12:13:11] [Client thread/INFO]: Extracting file Glass Table
+[12:13:11] [Client thread/INFO]: Extracting file Halo
+[12:13:11] [Client thread/INFO]: Extracting file Head Bow Left
+[12:13:11] [Client thread/INFO]: Extracting file Head Bow Right
+[12:13:11] [Client thread/INFO]: Extracting file Lightsaber (Dual)
+[12:13:11] [Client thread/INFO]: Extracting file Lightsaber
+[12:13:11] [Client thread/INFO]: Extracting file Madoka's Head Bows
+[12:13:11] [Client thread/INFO]: Extracting file Madoka's Shoes
+[12:13:11] [Client thread/INFO]: Extracting file Madoka's Skirt
+[12:13:11] [Client thread/INFO]: Extracting file Madoka's Top
+[12:13:11] [Client thread/INFO]: Extracting file Pika Hood
+[12:13:11] [Client thread/INFO]: Extracting file Pika Pants
+[12:13:11] [Client thread/INFO]: Extracting file Pika Paws
+[12:13:11] [Client thread/INFO]: Extracting file Pika T
+[12:13:11] [Client thread/INFO]: Extracting file Robot Key
+[12:13:11] [Client thread/INFO]: Extracting file Sakura's Cat Boots
+[12:13:11] [Client thread/INFO]: Extracting file Sakura's Cat Chest
+[12:13:11] [Client thread/INFO]: Extracting file Sakura's Cat Ears
+[12:13:11] [Client thread/INFO]: Extracting file Sakura's Cat Skirt
+[12:13:11] [Client thread/INFO]: Extracting file Sakura's Chest
+[12:13:11] [Client thread/INFO]: Extracting file Sakura's Shoes
+[12:13:11] [Client thread/INFO]: Extracting file Sakura's Skirt
+[12:13:11] [Client thread/INFO]: Extracting file Scythe
+[12:13:11] [Client thread/INFO]: Extracting file Viking Helmet (Blood)
+[12:13:11] [Client thread/INFO]: Extracting file Viking Helmet
+[12:13:11] [Client thread/INFO]: Extracting file Witch's Boots
+[12:13:11] [Client thread/INFO]: Extracting file Witch's Hat
+[12:13:11] [Client thread/INFO]: Extracting file Witch's Robes
+[12:13:11] [Client thread/INFO]: Extracting file Witch's Skirt
+[12:13:11] [Client thread/INFO]: Registering skin: armourers:head
+[12:13:11] [Client thread/INFO]: Registering skin: armourers:chest
+[12:13:11] [Client thread/INFO]: Registering skin: armourers:legs
+[12:13:11] [Client thread/INFO]: Registering skin: armourers:feet
+[12:13:11] [Client thread/INFO]: Registering skin: armourers:wings
+[12:13:11] [Client thread/INFO]: Registering skin: armourers:sword
+[12:13:11] [Client thread/INFO]: Registering skin: armourers:shield
+[12:13:11] [Client thread/INFO]: Registering skin: armourers:bow
+[12:13:11] [Client thread/INFO]: Registering skin: armourers:pickaxe
+[12:13:11] [Client thread/INFO]: Registering skin: armourers:axe
+[12:13:11] [Client thread/INFO]: Registering skin: armourers:shovel
+[12:13:11] [Client thread/INFO]: Registering skin: armourers:hoe
+[12:13:11] [Client thread/INFO]: Registering skin: armourers:item
+[12:13:11] [Client thread/INFO]: Registering skin: armourers:block
+[12:13:11] [Client thread/INFO]: Registering skin: armourers:part
+[12:13:11] [Client thread/INFO]: Registering skin: armourers:outfit
+[12:13:11] [Client thread/INFO]: Registering skin: armourers:unknown
+[12:13:11] [Client thread/INFO]: Registering equipment cube - id:0 name:Cube
+[12:13:11] [Client thread/INFO]: Registering equipment cube - id:1 name:CubeGlowing
+[12:13:11] [Client thread/INFO]: Registering equipment cube - id:2 name:CubeGlass
+[12:13:11] [Client thread/INFO]: Registering equipment cube - id:3 name:CubeGlassGlowing
+[12:13:11] [Client thread/INFO]: [Skin Trigger Registry] Registering: always as armourers_workshop:always.
+[12:13:11] [Client thread/INFO]: [Skin Action Registry] Registering: rotate as armourers_workshop:rotate.
+[12:13:11] [Client thread/INFO]: [Skin Value Registry] Registering: health_percentage as armourers_workshop:health_percentage.
+[12:13:11] [Client thread/INFO]: [Skin Value Registry] Registering: in_water as armourers_workshop:in_water.
+[12:13:11] [Client thread/INFO]: [Skin Value Registry] Registering: sneaking as armourers_workshop:sneaking.
+[12:13:11] [Client thread/INFO]: [Skin Value Registry] Registering: time as armourers_workshop:time.
+[12:13:11] [Client thread/INFO]: [Skin Value Registry] Registering: raining as armourers_workshop:raining.
+[12:13:11] [Client thread/INFO]: Registering class net.minecraft.entity.passive.EntityChicken as a skinnable entity.
+[12:13:11] [Client thread/INFO]: Registering class net.minecraft.entity.monster.EntityCreeper as a skinnable entity.
+[12:13:11] [Client thread/INFO]: Registering class net.minecraft.entity.monster.EntityGhast as a skinnable entity.
+[12:13:11] [Client thread/INFO]: Applying cpm transformer: net.minecraft.client.renderer.entity.RenderPlayer
+[12:13:11] [Client thread/INFO]: CPM RenderPlayer Hook: Found constructor
+[12:13:11] [Client thread/INFO]: CPM RenderPlayer Hook: Found constructor
+[12:13:11] [Client thread/INFO]: CPM RenderPlayer Hook: Found bipedHead field insn
+[12:13:11] [Client thread/INFO]: CPM RenderPlayer Hook: injected
+[12:13:11] [Client thread/INFO]: CPM Render Hand Hook: Found renderRightArm
+[12:13:11] [Client thread/INFO]: CPM Render Hand Hook/Right Pre: injected
+[12:13:11] [Client thread/INFO]: CPM Render Hand Hook/Right Post: injected
+[12:13:11] [Client thread/INFO]: CPM Render Hand Hook: Found renderLeftArm
+[12:13:11] [Client thread/INFO]: CPM Render Hand Hook/Left Pre: injected
+[12:13:11] [Client thread/INFO]: CPM Render Hand Hook/Left Post: injected
+[12:13:11] [Client thread/INFO]: CPM Render Invis Hook: Injecting method 
+[12:13:11] [Client thread/INFO]: CPM Render Invis Hook: injected
+[12:13:11] [Client thread/INFO]: CPM Render Invis Hook/Is Visible: injected
+[12:13:11] [Client thread/INFO]: CPM Render Invis Hook/Bind Texture: injected
+[12:13:11] [Client thread/INFO]: Registering class net.minecraft.entity.player.EntityPlayer as a skinnable entity.
+[12:13:11] [Client thread/INFO]: Registering class net.minecraft.entity.monster.EntitySkeleton as a skinnable entity.
+[12:13:11] [Client thread/INFO]: Registering class net.minecraft.entity.monster.EntitySlime as a skinnable entity.
+[12:13:11] [Client thread/INFO]: Registering class moe.plushie.armourers_workshop.common.init.entities.EntityMannequin as a skinnable entity.
+[12:13:11] [Client thread/INFO]: Loading GUI resources.
+[12:13:12] [Client thread/INFO]: Module Tool has successfully loaded
+[12:13:12] [Client thread/FATAL]: Module JourneyMap did not load due to issue: Mod with modid: journeymap was not found
+[12:13:12] [Forge Version Check/INFO]: [oxygen_merchants] Starting version check at https://raw.githubusercontent.com/AustereTony-MCMods/Oxygen-Merchants/info/mod_versions_forge.json
+[12:13:12] [Forge Version Check/INFO]: Release: raw.githubusercontent.com:-1
+[12:13:12] [Forge Version Check/INFO]: Check: raw.githubusercontent.com:443
+[12:13:12] [Forge Version Check/INFO]: Redirect: raw.githubusercontent.com -> 0.0.0.0
+[12:13:12] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:12] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:12] [Forge Version Check/INFO]: Release: Potato-Champion:-1
+[12:13:12] [Client thread/INFO]: OBJLoader: Domain contenttweaker has been added.
+[12:13:12] [Client thread/INFO]: Module Vanilla CraftTweaker has successfully loaded
+[12:13:12] [Client thread/FATAL]: Module Chickens did not load due to issue: Mod with modid: chickens was not found
+[12:13:12] [Client thread/INFO]: Module Materials has successfully loaded
+[12:13:12] [Client thread/FATAL]: Module Tinkers did not load due to issue: Mod with modid: tconstruct was not found
+[12:13:12] [Client thread/INFO]: Transforming class us/getfluxed/controlsearch/client/gui/GuiNewControls for string contains.
+[12:13:12] [Client thread/INFO]: Transforming invoke of java/lang/String.contains to me/towdium/jecharacters/util/Match.contains in method refreshKeys.
+[12:13:12] [Client thread/INFO]: Transforming invoke of java/lang/String.equals to (Ljava/lang/Object;)Z.equals in method refreshKeys.
+[12:13:13] [Client thread/INFO]: [Line #287] registerFluid() "Load Custom Fluid "customnpcs:custom_fluid_liquidexample""
+[12:13:13] [Client thread/INFO]: [Line #417] registerParticle() "Load Custom Particle "particle_example""
+[12:13:13] [Client thread/INFO]: [Line #417] registerParticle() "Load Custom Particle "particle_obj_example""
+[12:13:13] [Client thread/INFO]: OBJLoader: Domain customnpcs has been added.
+[12:13:14] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:14] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraftforge.common.property.ExtendedBlockState.createState
+[12:13:14] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraftforge.common.property.ExtendedBlockState.foamfix_mapper
+[12:13:14] [Client thread/INFO]: Removing LaunchWrapper package manifest map...
+[12:13:14] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraftforge.client.model.ItemLayerModel.bake
+[12:13:14] [Client thread/INFO]: Reloading the main configs from file 'E:\RPG开发\.minecraft\versions\rpgwip\config\justenoughdimensions\justenoughdimensions.cfg'
+[12:13:14] [Client thread/INFO]: [profhugo.nodami.NoDamI:preInit:25]: No Damage Immunity is loading!
+[12:13:14] [Thread-11/INFO]: Release: friendlyhj.github.io:-1
+[12:13:14] [Thread-11/INFO]: Check: friendlyhj.github.io:443
+[12:13:14] [Thread-11/INFO]: Redirect: friendlyhj.github.io -> 0.0.0.0
+[12:13:14] [Thread-11/INFO]: Release: 0.0.0.0:443
+[12:13:14] [Thread-11/INFO]: Release: 0.0.0.0:443
+[12:13:14] [Thread-11/INFO]: Release: Potato-Champion:-1
+[12:13:14] [Client thread/INFO]: The One Probe Detected Baubles: enabling support
+[12:13:14] [Client thread/INFO]: Found 22 addon candidates.
+[12:13:14] [Client thread/INFO]: Created addon Vanilla.
+[12:13:14] [Client thread/INFO]: Created addon Base.
+[12:13:14] [Client thread/INFO]: [alexiy.projectile.preview.TP:lambda$preload$1:54]: Entity class not found: slimeknights/tconstruct/library/entity/EntityProjectileBase
+[12:13:14] [Forge Version Check/INFO]: [oxygen_pinteraction] Starting version check at https://raw.githubusercontent.com/AustereTony-MCMods/Oxygen-Player-Interaction/info/mod_versions_forge.json
+[12:13:14] [Forge Version Check/INFO]: Release: raw.githubusercontent.com:-1
+[12:13:14] [Forge Version Check/INFO]: Check: raw.githubusercontent.com:443
+[12:13:14] [Forge Version Check/INFO]: Redirect: raw.githubusercontent.com -> 0.0.0.0
+[12:13:14] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:14] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:14] [Forge Version Check/INFO]: Release: Potato-Champion:-1
+[12:13:15] [Client thread/INFO]: [Line #633] registerBlocks() "Load Custom Block "customnpcs:custom_fluid_liquidexample""
+[12:13:15] [Client thread/INFO]: [Line #633] registerBlocks() "Load Custom Block "customnpcs:custom_blockexample""
+[12:13:15] [Client thread/INFO]: [Line #633] registerBlocks() "Load Custom Block "customnpcs:custom_facingblockexample""
+[12:13:15] [Client thread/INFO]: [Line #633] registerBlocks() "Load Custom Block "customnpcs:custom_chestexample""
+[12:13:15] [Client thread/INFO]: [Line #633] registerBlocks() "Load Custom Block "customnpcs:custom_containerexample""
+[12:13:15] [Client thread/INFO]: [Line #633] registerBlocks() "Load Custom Block "customnpcs:custom_stairsexample""
+[12:13:15] [Client thread/INFO]: [Line #633] registerBlocks() "Load Custom Block "customnpcs:custom_slabexample""
+[12:13:15] [Client thread/INFO]: [Line #647] registerBlocks() "Load Custom Block "customnpcs:custom_double_slabexample""
+[12:13:15] [Client thread/INFO]: [Line #633] registerBlocks() "Load Custom Block "customnpcs:custom_portalexample""
+[12:13:15] [Client thread/INFO]: [Line #633] registerBlocks() "Load Custom Block "customnpcs:custom_doorexample""
+[12:13:15] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:15] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `lit_furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:15] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `crafting_table`, expected `fastbench`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:15] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `crafting_table`, expected `fastbench`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:15] [Client thread/INFO]: Applying holder lookups
+[12:13:15] [Client thread/INFO]: Holder lookups applied
+[12:13:15] [Client thread/INFO]: [Line #1119] registryItem() "Load Custom Item "customnpcs:custom_itemexample""
+[12:13:15] [Client thread/INFO]: [Line #1119] registryItem() "Load Custom Item "customnpcs:custom_weaponexample""
+[12:13:15] [Client thread/INFO]: [Line #1119] registryItem() "Load Custom Item "customnpcs:custom_toolexample""
+[12:13:15] [Client thread/INFO]: [Line #1119] registryItem() "Load Custom Item "customnpcs:custom_axeexample""
+[12:13:15] [Client thread/INFO]: [Line #1119] registryItem() "Load Custom Item "customnpcs:custom_armorexample_head""
+[12:13:15] [Client thread/INFO]: [Line #1119] registryItem() "Load Custom Item "customnpcs:custom_armorexample_chest""
+[12:13:15] [Client thread/INFO]: [Line #1119] registryItem() "Load Custom Item "customnpcs:custom_armorexample_feet""
+[12:13:16] [Client thread/INFO]: [Line #1119] registryItem() "Load Custom Item "customnpcs:custom_armorobjexample_head""
+[12:13:16] [Client thread/INFO]: [Line #1119] registryItem() "Load Custom Item "customnpcs:custom_armorobjexample_chest""
+[12:13:16] [Client thread/INFO]: [Line #1119] registryItem() "Load Custom Item "customnpcs:custom_armorobjexample_legs""
+[12:13:16] [Client thread/INFO]: [Line #1119] registryItem() "Load Custom Item "customnpcs:custom_armorobjexample_feet""
+[12:13:16] [Client thread/INFO]: [Line #1119] registryItem() "Load Custom Item "customnpcs:custom_shieldexample""
+[12:13:16] [Client thread/INFO]: [Line #1119] registryItem() "Load Custom Item "customnpcs:custom_bowexample""
+[12:13:16] [Client thread/INFO]: [Line #1119] registryItem() "Load Custom Item "customnpcs:custom_foodexample""
+[12:13:16] [Client thread/INFO]: [Line #1119] registryItem() "Load Custom Item "customnpcs:custom_fishingrodexample""
+[12:13:16] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:16] [Client thread/INFO]: Applying holder lookups
+[12:13:16] [Client thread/INFO]: Holder lookups applied
+[12:13:16] [Client thread/INFO]: [Line #1061] registerPotion() "Load Custom Potion "customnpcs:custom_potion_potionexample""
+[12:13:16] [Client thread/INFO]: Applying holder lookups
+[12:13:16] [Client thread/INFO]: Holder lookups applied
+[12:13:16] [Client thread/INFO]: Injecting calls in net/minecraft/client/renderer/block/model/ModelResourceLocation<init> to canonicalize strings
+[12:13:16] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.client.renderer.block.model.ModelResourceLocation.<init>
+[12:13:16] [Placebo Patreon Loader/INFO]: Loading patreon data...
+[12:13:16] [Placebo Patreon Loader/INFO]: Release: raw.githubusercontent.com:-1
+[12:13:16] [Placebo Patreon Loader/INFO]: Check: raw.githubusercontent.com:443
+[12:13:16] [Placebo Patreon Loader/INFO]: Redirect: raw.githubusercontent.com -> 0.0.0.0
+[12:13:16] [Placebo Patreon Loader/INFO]: Release: 0.0.0.0:443
+[12:13:16] [Placebo Patreon Loader/INFO]: Release: 0.0.0.0:443
+[12:13:16] [Placebo Patreon Loader/INFO]: Release: Potato-Champion:-1
+[12:13:16] [Client thread/INFO]: Applying cpm transformer: net.minecraft.client.renderer.tileentity.TileEntitySkullRenderer
+[12:13:16] [Client thread/INFO]: CPM Skull Hook: found method
+[12:13:16] [Client thread/INFO]: CPM Skull Hook: injected (Pre)
+[12:13:16] [Client thread/INFO]: CPM Skull Hook: injected (Post)
+[12:13:16] [Client thread/INFO]: Applying holder lookups
+[12:13:16] [Client thread/INFO]: Holder lookups applied
+[12:13:16] [Client thread/INFO]: Injecting itemstacks
+[12:13:16] [Client thread/INFO]: Itemstack injection complete
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: java.net.ConnectException: Connection refused: connect
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at java.net.TwoStacksPlainSocketImpl.socketConnect(Native Method)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at java.net.PlainSocketImpl.connect(Unknown Source)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at java.net.SocksSocketImpl.connect(Unknown Source)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at java.net.Socket.connect(Unknown Source)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at sun.security.ssl.SSLSocketImpl.connect(Unknown Source)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at sun.net.NetworkClient.doConnect(Unknown Source)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at sun.net.www.protocol.https.HttpsClient.<init>(Unknown Source)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at sun.net.www.protocol.https.HttpsClient.New(Unknown Source)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(Unknown Source)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at java.security.AccessController.doPrivileged(Native Method)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(Unknown Source)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at java.security.AccessController.doPrivileged(Native Method)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at youyihj.probezs.ProbeZS.lambda$onPreInit$1(ProbeZS.java:167)
+[12:13:16] [Thread-11/INFO]: [youyihj.probezs.ProbeZS:lambda$onPreInit$1:171]: 	at java.lang.Thread.run(Unknown Source)
+[12:13:16] [Forge Version Check/INFO]: [oxygen_store] Starting version check at https://raw.githubusercontent.com/AustereTony-MCMods/Oxygen-Store/info/mod_versions_forge.json
+[12:13:16] [Forge Version Check/INFO]: Release: raw.githubusercontent.com:-1
+[12:13:16] [Forge Version Check/INFO]: Check: raw.githubusercontent.com:443
+[12:13:16] [Forge Version Check/INFO]: Redirect: raw.githubusercontent.com -> 0.0.0.0
+[12:13:16] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:16] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:16] [Forge Version Check/INFO]: Release: Potato-Champion:-1
+[12:13:18] [Placebo Patreon Loader/ERROR]: Exception loading patreon data!
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: java.net.ConnectException: Connection refused: connect
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at java.net.TwoStacksPlainSocketImpl.socketConnect(Native Method)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at java.net.PlainSocketImpl.connect(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at java.net.SocksSocketImpl.connect(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at java.net.Socket.connect(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at sun.security.ssl.SSLSocketImpl.connect(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at sun.security.ssl.BaseSSLSocketImpl.connect(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at sun.net.NetworkClient.doConnect(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at sun.net.www.protocol.https.HttpsClient.<init>(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at sun.net.www.protocol.https.HttpsClient.New(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at java.security.AccessController.doPrivileged(Native Method)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at java.security.AccessController.doPrivileged(Native Method)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at java.net.URL.openStream(Unknown Source)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at shadows.placebo.patreon.PatreonManager.lambda$init$0(PatreonManager.java:47)
+[12:13:18] [Placebo Patreon Loader/INFO]: [shadows.placebo.patreon.PatreonManager:lambda$init$0:66]: 	at java.lang.Thread.run(Unknown Source)
+[12:13:18] [Forge Version Check/INFO]: [oxygen_core] Starting version check at https://raw.githubusercontent.com/AustereTony-MCMods/Oxygen-Core/info/mod_versions_forge.json
+[12:13:18] [Forge Version Check/INFO]: Release: raw.githubusercontent.com:-1
+[12:13:18] [Forge Version Check/INFO]: Check: raw.githubusercontent.com:443
+[12:13:18] [Forge Version Check/INFO]: Redirect: raw.githubusercontent.com -> 0.0.0.0
+[12:13:18] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:18] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:18] [Forge Version Check/INFO]: Release: Potato-Champion:-1
+[12:13:20] [Forge Version Check/INFO]: [oxygen_market] Starting version check at https://raw.githubusercontent.com/AustereTony-MCMods/Oxygen-Market/info/mod_versions_forge.json
+[12:13:20] [Forge Version Check/INFO]: Release: raw.githubusercontent.com:-1
+[12:13:20] [Forge Version Check/INFO]: Check: raw.githubusercontent.com:443
+[12:13:20] [Forge Version Check/INFO]: Redirect: raw.githubusercontent.com -> 0.0.0.0
+[12:13:20] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:20] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:20] [Forge Version Check/INFO]: Release: Potato-Champion:-1
+[12:13:21] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[12:13:21] [Client thread/WARN]: @Redirect conflict. Skipping mixins.bakedquadsquasher.json:NewBakedQuadCallsRedirector from owner unknown-owner->@Redirect::staticRedirect([IILnet/minecraft/util/EnumFacing;Lnet/minecraft/client/renderer/texture/TextureAtlasSprite;ZLnet/minecraft/client/renderer/vertex/VertexFormat;)Lnet/minecraft/client/renderer/block/model/BakedQuad; with priority 1000, already redirected by mixins.bakedquadsquasher.json:NewBakedQuadCallsRedirector from owner unknown-owner->@Redirect::redirect([IILnet/minecraft/util/EnumFacing;Lnet/minecraft/client/renderer/texture/TextureAtlasSprite;ZLnet/minecraft/client/renderer/vertex/VertexFormat;)Lnet/minecraft/client/renderer/block/model/BakedQuad; with priority 1000
+[12:13:21] [Client thread/INFO]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/client/renderer/block/model/multipart/ConditionOr to pl/asie/foamfix/client/condition/FoamyConditionOr
+[12:13:21] [Client thread/INFO]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/client/renderer/block/model/multipart/ConditionOr to pl/asie/foamfix/client/condition/FoamyConditionOr
+[12:13:21] [Client thread/INFO]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/client/renderer/block/model/multipart/ConditionAnd to pl/asie/foamfix/client/condition/FoamyConditionAnd
+[12:13:21] [Client thread/INFO]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/client/renderer/block/model/multipart/ConditionAnd to pl/asie/foamfix/client/condition/FoamyConditionAnd
+[12:13:21] [Client thread/INFO]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/client/renderer/block/model/multipart/ConditionAnd to pl/asie/foamfix/client/condition/FoamyConditionAnd
+[12:13:21] [Client thread/INFO]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/client/renderer/block/model/multipart/ConditionAnd to pl/asie/foamfix/client/condition/FoamyConditionAnd
+[12:13:21] [Client thread/INFO]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/client/renderer/block/model/multipart/ConditionPropertyValue to pl/asie/foamfix/client/condition/FoamyConditionPropertyValue
+[12:13:21] [Client thread/INFO]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/client/renderer/block/model/multipart/ConditionPropertyValue to pl/asie/foamfix/client/condition/FoamyConditionPropertyValue
+[12:13:21] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraftforge.client.model.ModelLoader$VanillaModelWrapper.bakeNormal
+[12:13:21] [Thread-12/INFO]: Initializing LWJGL OpenAL
+[12:13:21] [Thread-12/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:13:21] [Thread-12/INFO]: OpenAL initialized.
+[12:13:21] [Sound Library Loader/INFO]: Sound engine started
+[12:13:22] [Client thread/INFO]: Max texture size: 16384
+[12:13:22] [Forge Version Check/INFO]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[12:13:22] [Forge Version Check/INFO]: Release: raw.githubusercontent.com:-1
+[12:13:22] [Forge Version Check/INFO]: Check: raw.githubusercontent.com:443
+[12:13:22] [Forge Version Check/INFO]: Redirect: raw.githubusercontent.com -> 0.0.0.0
+[12:13:22] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:22] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:22] [Forge Version Check/INFO]: Release: Potato-Champion:-1
+[12:13:23] [Client thread/INFO]: Created: 2048x1024 textures-atlas
+[12:13:23] [Client thread/INFO]: Clearing ModelLoaderRegistry cache (4626 items)...
+[12:13:23] [Client thread/INFO]: Cleared 4621 objects.
+[12:13:23] [Client thread/INFO]: Deduplicating...
+[12:13:23] [Client thread/INFO]: Deduplicating models...
+[12:13:23] [Client thread/INFO]: Deduplicated 20538 (+ 22028) objects.
+[12:13:23] [Client thread/INFO]: Cleaning up ModelLoader...
+[12:13:23] [Client thread/INFO]: Clearing and Trimming multipartModels, original size: 31 entries
+[12:13:23] [Client thread/INFO]: Clearing and Trimming multipartDefinitions, original size: 649 entries
+[12:13:23] [Client thread/INFO]: Clearing and Trimming multipartVariantMap, original size: 0 entries
+[12:13:23] [Client thread/INFO]: Clearing and Trimming blockDefinitions, original size: 455 entries
+[12:13:23] [Client thread/INFO]: Evicted 950 sprites' frame texture data
+[12:13:23] [Client thread/INFO]: Applying cpm transformer: net.minecraft.client.renderer.entity.layers.LayerCustomHead
+[12:13:23] [Client thread/INFO]: CPM Armor Hook/Skull: Found doRenderLayer method
+[12:13:23] [Client thread/INFO]: CPM Armor Hook/Skull: Found postRender call
+[12:13:23] [Client thread/INFO]: CPM Armor Hook/Skull: injected
+[12:13:23] [Client thread/INFO]: Applying cpm transformer: net.minecraft.client.renderer.entity.layers.LayerElytra
+[12:13:23] [Client thread/INFO]: CPM Elytra Hook/Bind: Found doRenderLayer method
+[12:13:23] [Client thread/INFO]: CPM Elytra Hook/Bind pre: Found pushMatrix method
+[12:13:23] [Client thread/INFO]: CPM Elytra Hook/Bind pre: injected
+[12:13:23] [Client thread/INFO]: CPM Elytra Hook/Bind post: Found popMatrix method
+[12:13:23] [Client thread/INFO]: CPM Elytra Hook/Bind post: injected
+[12:13:23] [Client thread/INFO]: Applying cpm transformer: net.minecraft.client.renderer.entity.layers.LayerArmorBase
+[12:13:23] [Client thread/INFO]: CPM Armor Hook/Layer: Found renderer field
+[12:13:23] [Client thread/INFO]: CPM Armor Hook/Bind: Found doRenderLayer method
+[12:13:23] [Client thread/INFO]: CPM Armor Hook/Bind: injected
+[12:13:23] [Client thread/INFO]: CPM Armor Hook/Layer: Found renderArmorLayer method
+[12:13:23] [Client thread/INFO]: CPM Armor Hook/Layer: Found render call
+[12:13:23] [Client thread/INFO]: CPM Armor Hook/Layer: injected
+[12:13:23] [Client thread/INFO]: CPM Armor Hook/Layer: Found render call
+[12:13:23] [Client thread/INFO]: CPM Armor Hook/Layer: injected
+[12:13:23] [Client thread/INFO]: CPM Armor Hook/LayerGlint: Found renderEnchantedGlint method
+[12:13:23] [Client thread/INFO]: CPM Armor Hook/LayerGlint: Found render call
+[12:13:23] [Client thread/INFO]: CPM Armor Hook/LayerGlint: injected
+[12:13:23] [Client thread/INFO]: Applying cpm transformer: net.minecraft.client.renderer.entity.layers.LayerCape
+[12:13:23] [Client thread/INFO]: CPM Cape Hook/Bind: Found doRenderLayer method
+[12:13:23] [Client thread/INFO]: Applying cpm transformer: net.minecraft.client.renderer.entity.layers.LayerEntityOnShoulder
+[12:13:23] [Client thread/INFO]: CPM Parrot Hook: Found renderEntityOnShoulder method
+[12:13:23] [Client thread/INFO]: CPM Parrot Hook: Found pushMatrix method
+[12:13:23] [Client thread/INFO]: CPM Parrot Hook: injected
+[12:13:24] [Client thread/INFO]: JEI search tree manager injection complete!
+[12:13:24] [Client thread/INFO]: Applying holder lookups
+[12:13:24] [Client thread/INFO]: Holder lookups applied
+[12:13:24] [Client thread/INFO]: Registering class noppes.npcs.entity.EntityCustomNpc as a skinnable entity.
+[12:13:24] [Client thread/INFO]: Registering permission: armourers_workshop.tile.armourer.open-gui
+[12:13:24] [Client thread/INFO]: Registering permission: armourers_workshop.tile.skin-library.open-gui
+[12:13:24] [Client thread/INFO]: Registering permission: armourers_workshop.tile.global-skin-library.open-gui
+[12:13:24] [Client thread/INFO]: Registering permission: armourers_workshop.tile.colour-mixer.open-gui
+[12:13:24] [Client thread/INFO]: Registering permission: armourers_workshop.tile.mannequin.open-gui
+[12:13:24] [Client thread/INFO]: Registering permission: armourers_workshop.tile.doll.open-gui
+[12:13:24] [Client thread/INFO]: Registering permission: armourers_workshop.tile.skinning-table.open-gui
+[12:13:24] [Client thread/INFO]: Registering permission: armourers_workshop.tile.skinnable.open-gui
+[12:13:24] [Client thread/INFO]: Registering permission: armourers_workshop.tile.skinnable.sit
+[12:13:24] [Client thread/INFO]: Registering permission: armourers_workshop.tile.skinnable.sleep
+[12:13:24] [Client thread/INFO]: Registering permission: armourers_workshop.tile.dye-table.open-gui
+[12:13:24] [Client thread/INFO]: Registering permission: armourers_workshop.tile.hologram-projector.open-gui
+[12:13:24] [Client thread/INFO]: Registering permission: armourers_workshop.tile.outfit-maker.open-gui
+[12:13:24] [Client thread/INFO]: Registering permission: armourers_workshop.tile.advanced-skin-builder.open-gui
+[12:13:24] [Client thread/INFO]: Creating default palettes.
+[12:13:24] [Client thread/INFO]: Saving palettes.
+[12:13:24] [Forge Version Check/INFO]: [oxygen_exchange] Starting version check at https://raw.githubusercontent.com/AustereTony-MCMods/Oxygen-Exchange/info/mod_versions_forge.json
+[12:13:24] [Forge Version Check/INFO]: Release: raw.githubusercontent.com:-1
+[12:13:24] [Forge Version Check/INFO]: Check: raw.githubusercontent.com:443
+[12:13:24] [Forge Version Check/INFO]: Redirect: raw.githubusercontent.com -> 0.0.0.0
+[12:13:24] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:24] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:24] [Forge Version Check/INFO]: Release: Potato-Champion:-1
+[12:13:24] [Client thread/INFO]: Created: 256x128 textures-atlas
+[12:13:24] [Client thread/INFO]: [Line #92] <init>() "Script Engines Available:"
+[12:13:24] [Client thread/INFO]: [Line #105] <init>() "Rhino JS is missed"
+[12:13:24] [Client thread/INFO]: [Line #118] <init>() "Groovy JS is missed"
+[12:13:24] [Client thread/INFO]: [Line #131] <init>() "Kotlin JS is missed"
+[12:13:25] [Client thread/INFO]: [Line #169] <init>() "Nashorn Require is missed:"
+[12:13:25] [Client thread/ERROR]: [Line #904] loadAgreements() "Load player script agreements"
+[12:13:25] [Client thread/INFO]: [Line #859] registerForgeEvents() "CustomNpcs: Start load Forge Events:"
+[12:13:25] [Client thread/INFO]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraftforge.fml.common.network.ByteBufUtils.writeUTF8String
+[12:13:25] [Client thread/INFO]: Applying cpm transformer: net.minecraft.network.NetHandlerPlayServer
+[12:13:25] [Client thread/INFO]: CPM ServerNet Hook: Found processCustomPayload
+[12:13:25] [Client thread/INFO]: CPM ServerNet Hook: injected
+[12:13:25] [Client thread/INFO]: CPM ServerNet/hasMod: injected
+[12:13:25] [Client thread/INFO]: CPM ServerNet/setHasMod: injected
+[12:13:25] [Client thread/INFO]: CPM ServerNet/getData: injected
+[12:13:25] [Client thread/INFO]: CPM ServerNet/setData: injected
+[12:13:25] [Client thread/INFO]: [Line #993] registerForgeEvents() "CustomNpcs: Registered [Client:208; Server: 148] Forge Events out of [303] classes"
+[12:13:25] [Client thread/INFO]: CustomNPC Permissions available:
+[12:13:25] [Client thread/INFO]: customnpcs.edit.blocks
+[12:13:25] [Client thread/INFO]: customnpcs.edit.villager
+[12:13:25] [Client thread/INFO]: customnpcs.global.bank
+[12:13:25] [Client thread/INFO]: customnpcs.global.dialog
+[12:13:25] [Client thread/INFO]: customnpcs.global.faction
+[12:13:25] [Client thread/INFO]: customnpcs.global.linked
+[12:13:25] [Client thread/INFO]: customnpcs.global.marcet
+[12:13:25] [Client thread/INFO]: customnpcs.global.naturalspawn
+[12:13:25] [Client thread/INFO]: customnpcs.global.playerdata
+[12:13:25] [Client thread/INFO]: customnpcs.global.quest
+[12:13:25] [Client thread/INFO]: customnpcs.global.recipe
+[12:13:25] [Client thread/INFO]: customnpcs.global.transport
+[12:13:25] [Client thread/INFO]: customnpcs.npc.advanced
+[12:13:25] [Client thread/INFO]: customnpcs.npc.clone
+[12:13:25] [Client thread/INFO]: customnpcs.npc.create
+[12:13:25] [Client thread/INFO]: customnpcs.npc.delete
+[12:13:25] [Client thread/INFO]: customnpcs.npc.display
+[12:13:25] [Client thread/INFO]: customnpcs.npc.freeze
+[12:13:25] [Client thread/INFO]: customnpcs.npc.gui
+[12:13:25] [Client thread/INFO]: customnpcs.npc.inventory
+[12:13:25] [Client thread/INFO]: customnpcs.npc.reset
+[12:13:25] [Client thread/INFO]: customnpcs.npc.stats
+[12:13:25] [Client thread/INFO]: customnpcs.scenes
+[12:13:25] [Client thread/INFO]: customnpcs.soulstone.all
+[12:13:25] [Client thread/INFO]: customnpcs.spawner.create
+[12:13:25] [Client thread/INFO]: customnpcs.spawner.mob
+[12:13:25] [Client thread/INFO]: customnpcs.tool.mounter
+[12:13:25] [Client thread/INFO]: customnpcs.tool.nbtbook
+[12:13:25] [Client thread/INFO]: customnpcs.tool.pather
+[12:13:25] [Client thread/INFO]: customnpcs.tool.scripter
+[12:13:25] [Client thread/INFO]: customnpcs.tool.teleporter
+[12:13:25] [Client thread/INFO]: [Line #230] load() "Loading Recipes"
+[12:13:25] [Client thread/INFO]: [Line #265] checkLocalization() "Check Mod Localization"
+[12:13:26] [Client thread/INFO]: Added Lets Encrypt root certificates as additional trust
+[12:13:26] [Client thread/INFO]: Loaded 0 built-in, 0 custom block tags
+[12:13:26] [Client thread/INFO]: Loaded 6 built-in, 0 custom item tags
+[12:13:26] [Client thread/INFO]: Loaded 0 built-in, 0 custom entity tags
+[12:13:26] [Client thread/INFO]: Loaded 0 built-in, 0 custom biome tags
+[12:13:26] [Client thread/INFO]: Applying cpm transformer: net.minecraft.client.network.NetHandlerPlayClient
+[12:13:26] [Client thread/INFO]: CPM ClientNet Hook: Found handleCustomPayload
+[12:13:26] [Client thread/INFO]: CPM ClientNet Hook: injected
+[12:13:26] [Client thread/INFO]: CPM ClientNet/hasMod: injected
+[12:13:26] [Client thread/INFO]: CPM ClientNet/setHasMod: injected
+[12:13:26] [Client thread/INFO]: Customizable Player Models Initialized
+[12:13:26] [Client thread/INFO]: Deduplicated 109 property sets.
+[12:13:26] [Client thread/INFO]: Weakening LaunchWrapper resource cache...
+[12:13:26] [Client thread/INFO]: Registered client-side world unload notifier!
+[12:13:26] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[12:13:26] [Client thread/WARN]: =============================================================
+[12:13:26] [Client thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[12:13:26] [Client thread/WARN]: Offender: dlovin/inventoryhud/utils/BaubleSaveUtils.saveFile(Ljava/io/File;Ljava/lang/String;)V
+[12:13:26] [Client thread/WARN]: Use FMLCommonHandler.exitJava instead
+[12:13:26] [Client thread/WARN]: =============================================================
+[12:13:26] [Client thread/INFO]: TRY TO IN: E:\RPG开发\.minecraft\versions\rpgwip\config/InventoryHUD/baubles.json
+[12:13:26] [Client thread/INFO]: InventoryHUD+ successfully initialized
+[12:13:26] [Client thread/INFO]: [Core] Loaded config for <oxygen_core>.
+[12:13:26] [Client thread/INFO]: [Core] Loaded config for <oxygen_core:privileges>.
+[12:13:26] [Client thread/INFO]: [Core] Loaded config for <oxygen_cp_ge>.
+[12:13:26] [Client thread/INFO]: [Core] Loaded config for <oxygen_dailyrewards>.
+[12:13:26] [Client thread/INFO]: [Core] Loaded config for <oxygen_exchange>.
+[12:13:26] [Client thread/INFO]: [Core] Loaded config for <oxygen_friendslist>.
+[12:13:26] [Client thread/INFO]: [Core] Loaded config for <oxygen_groups>.
+[12:13:26] [Forge Version Check/INFO]: [oxygen_dailyrewards] Starting version check at https://raw.githubusercontent.com/AustereTony-MCMods/Oxygen-Daily-Rewards/info/mod_versions_forge.json
+[12:13:26] [Forge Version Check/INFO]: Release: raw.githubusercontent.com:-1
+[12:13:26] [Forge Version Check/INFO]: Check: raw.githubusercontent.com:443
+[12:13:26] [Forge Version Check/INFO]: Redirect: raw.githubusercontent.com -> 0.0.0.0
+[12:13:26] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:26] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:26] [Forge Version Check/INFO]: Release: Potato-Champion:-1
+[12:13:26] [Client thread/INFO]: [Core] Loaded config for <oxygen_mail>.
+[12:13:26] [Client thread/INFO]: [Core] Loaded config for <oxygen_market>.
+[12:13:26] [Client thread/INFO]: [Core] Loaded config for <oxygen_menu>.
+[12:13:26] [Client thread/INFO]: [Core] Loaded config for <oxygen_merchants>.
+[12:13:26] [Client thread/INFO]: [Core] Loaded config for <oxygen_playerslist>.
+[12:13:26] [Client thread/INFO]: [Core] Loaded config for <oxygen_shop>.
+[12:13:26] [Client thread/INFO]: [Core] Loaded config for <oxygen_store>.
+[12:13:26] [Client thread/INFO]: [Core] Loaded config for <oxygen_teleportation>.
+[12:13:26] [Client thread/INFO]: [Core] Network handler <oxygen_core> created.
+[12:13:27] [Client thread/INFO]: [Core] Registered <core:shared_data_server> persistent data.
+[12:13:27] [Client thread/INFO]: [Daily Rewards] Scheduled rewards reloading for <October> at: 2025-10-01 00:00:01 CST
+[12:13:27] [Client thread/INFO]: [Core] Registered <friendslist:player_data_client> persistent data.
+[12:13:27] [Client thread/INFO]: [Core] Registered <groups:groups_data_server> persistent data.
+[12:13:27] [Client thread/INFO]: [Core] Registered <mail:mailboxes_server> persistent data.
+[12:13:27] [Client thread/INFO]: [Core] Registered <mail:mailbox_client> persistent data.
+[12:13:27] [Client thread/INFO]: [Core] Registered <market:offers_data_server> persistent data.
+[12:13:27] [Client thread/INFO]: [Core] Registered <market:sales_history_server> persistent data.
+[12:13:27] [Client thread/INFO]: [Core] Registered <market:offers_data_client> persistent data.
+[12:13:27] [Client thread/INFO]: [Core] Registered <market:sales_history_client> persistent data.
+[12:13:27] [Client thread/INFO]: [Core] Registered <merchants:merchant_profiles_client> persistent data.
+[12:13:27] [Client thread/INFO]: [Core] Registered <shop:shop_data_client> persistent data.
+[12:13:27] [Client thread/INFO]: [Core] Registered <store:players_data_server> persistent data.
+[12:13:27] [Client thread/INFO]: [Core] Registered <store:offers_client> persistent data.
+[12:13:27] [Client thread/INFO]: [Core] Registered <store:player_data_client> persistent data.
+[12:13:27] [Client thread/INFO]: [Core] Registered <teleportation:shared_camps_server> persistent data.
+[12:13:27] [Client thread/INFO]: [Core] Registered <teleportation:locations_server> persistent data.
+[12:13:27] [Client thread/INFO]: [Core] Registered <teleportation:player_data> persistent data.
+[12:13:27] [Client thread/INFO]: [Core] Registered <teleportation:shared_camps_client> persistent data.
+[12:13:27] [Client thread/INFO]: [Core] Registered <teleportation:locations_client> persistent data.
+[12:13:27] [Client thread/INFO]: Config: allHelmetProbable is enabled, edit blacklist to restrict.
+[12:13:27] [Client thread/INFO]: Customizable Player Models IMC processed: Loaded plugins: (0)
+
+[12:13:27] [Client thread/INFO]: Injecting itemstacks
+[12:13:27] [Client thread/INFO]: Itemstack injection complete
+[12:13:27] [Client thread/INFO]: Adding layer renderers to entities
+[12:13:27] [Client thread/INFO]: Adding layer renderer to entity class net.minecraft.entity.player.EntityPlayer
+[12:13:27] [Client thread/INFO]: Setting up player render layers.
+[12:13:27] [Armourer's Workshop library thread./INFO]: Loading library skins
+[12:13:27] [Client thread/INFO]: Adding reset layer to net.minecraft.client.renderer.entity.RenderPlayer@3a1a2042
+[12:13:27] [Client thread/INFO]: Removing held item layer from net.minecraft.client.renderer.entity.RenderPlayer@3a1a2042
+[12:13:27] [Client thread/INFO]: Adding skinned held item layer to net.minecraft.client.renderer.entity.RenderPlayer@3a1a2042
+[12:13:27] [Client thread/INFO]: Adding 'SkinLayerRendererPlayer' to net.minecraft.client.renderer.entity.RenderPlayer@3a1a2042
+[12:13:27] [Client thread/INFO]: Adding reset layer to net.minecraft.client.renderer.entity.RenderPlayer@24ab8474
+[12:13:27] [Client thread/INFO]: Removing held item layer from net.minecraft.client.renderer.entity.RenderPlayer@24ab8474
+[12:13:27] [Client thread/INFO]: Adding skinned held item layer to net.minecraft.client.renderer.entity.RenderPlayer@24ab8474
+[12:13:27] [Client thread/INFO]: Adding 'SkinLayerRendererPlayer' to net.minecraft.client.renderer.entity.RenderPlayer@24ab8474
+[12:13:27] [Client thread/INFO]: Finished setting up player render layers.
+[12:13:27] [Client thread/INFO]: Adding layer renderer to entity class net.minecraft.entity.passive.EntityChicken
+[12:13:27] [Client thread/INFO]: Adding layer renderer to entity class net.minecraft.entity.monster.EntitySkeleton
+[12:13:27] [Client thread/INFO]: Adding layer renderer to entity class net.minecraft.entity.monster.EntityCreeper
+[12:13:27] [Client thread/INFO]: Adding layer renderer to entity class noppes.npcs.entity.EntityCustomNpc
+[12:13:27] [Client thread/INFO]: Adding layer renderer to entity class net.minecraft.entity.monster.EntitySlime
+[12:13:27] [Client thread/INFO]: Adding layer renderer to entity class net.minecraft.entity.monster.EntityGhast
+[12:13:27] [Client thread/INFO]: Adding layer renderer to entity class moe.plushie.armourers_workshop.common.init.entities.EntityMannequin
+[12:13:27] [Client thread/INFO]: Loading error model.
+[12:13:27] [Client thread/INFO]: Reloading Themes...
+[12:13:27] [Client thread/INFO]: Found themes.json's at [modularui:themes.json]
+[12:13:27] [Client thread/INFO]: Registering Vanilla Overlay
+[12:13:27] [Client thread/INFO]: Registering Mod Overlays
+[12:13:27] [Client thread/INFO]: [Line #265] checkLocalization() "Check Mod Localization"
+[12:13:27] [Client thread/INFO]: [Line #341] postload() "Mod loaded ^_^ Have a good game!"
+[12:13:27] [Armourer's Workshop library thread./INFO]: Created 17 type lists for file list type LOCAL.
+[12:13:27] [Armourer's Workshop library thread./INFO]: Finished loading 44 client library skins in 230 ms
+[12:13:27] [Client thread/INFO]: [KONKRETE] Client-side libs ready to use!
+[12:13:27] [Client thread/INFO]: [de.keksuccino.konkrete.PostLoadingHandler:runPostLoadingEvents:14]: [KONKRETE] Running PostLoadingEvents for mod: fancymenu
+[12:13:28] [Client thread/INFO]: [de.keksuccino.konkrete.PostLoadingHandler:runPostLoadingEvents:20]: [KONKRETE] PostLoadingEvents completed for mod: fancymenu
+[12:13:28] [Client thread/INFO]: [Core] Network channel <oxygen_core> holds 100 packets.
+[12:13:28] [Client thread/INFO]: Beginning replacement of all shapeless recipes...
+[12:13:28] [Client thread/INFO]: Expect log spam from FML!
+[12:13:28] [Oxygen IO #1 SERVER/INFO]: [Core] Presets loading started...
+[12:13:28] [Oxygen IO #0 SERVER/INFO]: [Core] Loaded items blacklist for <exchange>.
+[12:13:28] [Oxygen IO #0 SERVER/INFO]: [Core] Loaded items blacklist for <mail>.
+[12:13:28] [Oxygen IO #0 SERVER/INFO]: [Core] Loaded items blacklist for <market>.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_dye_from_sunflower`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_dye_from_dandelion`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `writable_book`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `white_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `trapped_chest`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `red_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `red_dye_from_tulip`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `red_dye_from_rose_bush`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `red_dye_from_poppy`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `red_dye_from_beetroot`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `red_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `red_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `purple_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `purple_dye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `purple_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `purple_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `pumpkin_pie`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `pink_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `pink_dye_from_red_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `pink_dye_from_pink_tulip`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `pink_dye_from_peony`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `pink_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `pink_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `orange_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `orange_dye_from_red_yellow`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `orange_dye_from_orange_tulip`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `orange_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `orange_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `mushroom_stew`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `mossy_stonebrick`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `mossy_cobblestone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `magma_cream`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_purple_and_pink`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_lilac`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_lapis_red_pink`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_lapis_ink_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_dye_from_allium`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `lime_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `lime_dye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `lime_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `lime_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_white_tulip`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_oxeye_daisy`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_ink_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_gray_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_dye_from_azure_bluet`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_dye_from_lapis_bonemeal`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_dye_from_blue_orchid`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `green_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `green_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `green_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gray_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gray_dye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gray_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gray_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `granite`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `flint_and_steel`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `fire_charge`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `fermented_spider_eye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `ender_eye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_dye`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `brown_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `brown_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `brown_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `book`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `bone_meal_from_bone`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `bone_meal_from_block`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `blue_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `blue_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `blue_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `blaze_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `black_wool`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `black_concrete_powder`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `black_bed_from_white_bed`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `andesite`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `armourers_workshop` for name `tile.skin-cube-glowing`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `armourers_workshop` for name `tile.skin-cube-glass`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `armourers_workshop` for name `tile.skin-cube-glass-glowing-2`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `armourers_workshop` for name `tile.skin-cube-glass-glowing-1`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `armourers_workshop` for name `item.skin-unlock-wings`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `armourers_workshop` for name `item.skin-unlock-outfit`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `armourers_workshop` for name `item.skin-unlock-legs`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `armourers_workshop` for name `item.skin-unlock-head`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `armourers_workshop` for name `item.skin-unlock-feet`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `armourers_workshop` for name `item.skin-unlock-chest`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `armourers_workshop` for name `item.guide-book`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `armourers_workshop` for name `item.soap`, expected `placebo`. This could be a intended override, but in most cases indicates a broken mod.
+[12:13:28] [Client thread/INFO]: Successfully replaced 102 recipes with fast recipes.
+[12:13:28] [Client thread/INFO]: Release: Potato-Champion:-1
+[12:13:28] [Oxygen IO #1 SERVER/INFO]: [Core] Preset <item_categories> loaded successfully.
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for com.teamacronymcoders.contenttweaker.api.ICTObject
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for com.teamacronymcoders.contenttweaker.api.ICTObject
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for java.util.HashMap
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for com.teamacronymcoders.contenttweaker.api.ICTObject
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for T
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for com.teamacronymcoders.base.materialsystem.materials.Material
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for com.teamacronymcoders.contenttweaker.api.ICTObject
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for com.teamacronymcoders.contenttweaker.api.ICTObject
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for com.teamacronymcoders.contenttweaker.api.ICTObject
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for com.teamacronymcoders.contenttweaker.api.ICTObject
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for T
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for com.teamacronymcoders.contenttweaker.api.IRepresentation
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for youyihj.zenutils.impl.mixin.crafttweaker.MixinPlayerAnvilUpdateEvent
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for java.util.function.Predicate
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for net.minecraftforge.server.command.CommandTreeBase
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for net.minecraft.command.ICommandSender
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for net.minecraft.command.CommandBase
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for net.minecraft.command.ICommandSender
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for com.teamacronymcoders.contenttweaker.api.ICTObject
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for java.lang.Iterable
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for java.util.Collection
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for java.lang.Iterable
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for net.minecraft.command.ICommand
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for java.lang.Iterable
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for com.teamacronymcoders.contenttweaker.api.ICTObject
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for com.teamacronymcoders.contenttweaker.api.IRepresentation
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for com.teamacronymcoders.contenttweaker.api.ICTObject
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for java.io.Closeable
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for com.teamacronymcoders.contenttweaker.api.ICTObject
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for com.teamacronymcoders.contenttweaker.api.ctobjects.tileentity.IMCTileEntity
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for com.teamacronymcoders.contenttweaker.modules.vanilla.tileentity.TileEntityRepresentation
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for com.teamacronymcoders.contenttweaker.api.ICTObject
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for com.teamacronymcoders.contenttweaker.api.ICTObject
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for java.lang.Iterable
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for com.teamacronymcoders.contenttweaker.api.ICTObject
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for java.lang.Enum
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for com.teamacronymcoders.contenttweaker.api.ICTObject
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for com.google.common.base.Predicate
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for com.teamacronymcoders.contenttweaker.api.ICTObject
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for java.util.Collection
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for java.lang.Runnable
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for java.lang.Iterable
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for java.lang.Enum
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for com.teamacronymcoders.contenttweaker.api.IRepresentation
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for com.teamacronymcoders.contenttweaker.modules.vanilla.tileentity.TileEntityRepresentation
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for java.lang.Enum
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for net.minecraft.tileentity.TileEntity
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for net.minecraft.util.ITickable
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for net.minecraftforge.common.util.INBTSerializable
+[12:13:28] [Client thread/WARN]: Do not know zenscript type for java.lang.Throwable
+[12:13:28] [Forge Version Check/INFO]: [oxygen_teleportation] Starting version check at https://raw.githubusercontent.com/AustereTony-MCMods/Oxygen-Teleportation/info/mod_versions_forge.json
+[12:13:28] [Forge Version Check/INFO]: Release: raw.githubusercontent.com:-1
+[12:13:28] [Forge Version Check/INFO]: Check: raw.githubusercontent.com:443
+[12:13:28] [Forge Version Check/INFO]: Redirect: raw.githubusercontent.com -> 0.0.0.0
+[12:13:28] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:28] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:28] [Forge Version Check/INFO]: Release: Potato-Champion:-1
+[12:13:29] [Client thread/INFO]: WorldEdit for Forge (version 6.1.10) is loaded
+[12:13:29] [Client thread/INFO]: Starting Had Enough Items...
+[12:13:29] [Client thread/INFO]: Transforming class bmp for string contains.
+[12:13:29] [Client thread/INFO]: Registering recipe categories...
+[12:13:29] [Client thread/INFO]: Registering recipe categories took 13.69 ms
+[12:13:29] [Client thread/INFO]: Registering mod plugins...
+[12:13:29] [Client thread/ERROR]: Recipe has too many inputs. Custom NPCs customnpcs:npc_mailbox_blue_metallic class noppes.npcs.items.crafting.NpcShapedRecipes
+Outputs:
+net.minecraft.item.ItemStack: [[1xtile.npcmailbox@0 customnpcs:npcmailbox]]
+Inputs:
+net.minecraft.item.ItemStack: [[1xitem.ingotIron@0 minecraft:iron_ingot], [1xitem.ingotIron@0 minecraft:iron_ingot], [1xitem.ingotIron@0 minecraft:iron_ingot], [1xitem.ingotIron@0 minecraft:iron_ingot], [1xitem.ingotIron@0 minecraft:iron_ingot], [3xitem.dyePowder@4 minecraft:dye], [3xitem.dyePowder@4 minecraft:dye], [1xitem.ingotIron@0 minecraft:iron_ingot], [1xitem.ingotIron@0 minecraft:iron_ingot], [1xitem.ingotIron@0 minecraft:iron_ingot], [1xitem.ingotIron@0 minecraft:iron_ingot], [1xitem.ingotIron@0 minecraft:iron_ingot], [], [1xitem.paper@0 minecraft:paper], [1xitem.dyePowder@15 minecraft:dye], []]
+[12:13:29] [Client thread/ERROR]: Recipe has too many inputs. Custom NPCs customnpcs:npc_mailstand_iron_metallic_0 class noppes.npcs.items.crafting.NpcShapedRecipes
+Outputs:
+net.minecraft.item.ItemStack: [[1xtile.npcmailbox@1 customnpcs:npcmailbox]]
+Inputs:
+net.minecraft.item.ItemStack: [[1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [], [1xitem.ingotIron@0 minecraft:iron_ingot], [1xitem.paper@0 minecraft:paper], [1xitem.ingotIron@0 minecraft:iron_ingot], [], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [], [], [1xtile.stonebrick@0 minecraft:cobblestone], [], []]
+[12:13:29] [Client thread/ERROR]: Recipe has too many inputs. Custom NPCs customnpcs:npc_mailstand_iron_metallic_1 class noppes.npcs.items.crafting.NpcShapedRecipes
+Outputs:
+net.minecraft.item.ItemStack: [[1xtile.npcmailbox@1 customnpcs:npcmailbox]]
+Inputs:
+net.minecraft.item.ItemStack: [[1xitem.ingotIron@0 minecraft:iron_ingot], [1xitem.paper@0 minecraft:paper], [1xitem.ingotIron@0 minecraft:iron_ingot], [], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [], [], [1xtile.stonebrick@0 minecraft:cobblestone], [], []]
+[12:13:29] [Client thread/ERROR]: Recipe has too many inputs. Custom NPCs customnpcs:npc_mailstand_iron_metallic_2 class noppes.npcs.items.crafting.NpcShapedRecipes
+Outputs:
+net.minecraft.item.ItemStack: [[1xtile.npcmailbox@1 customnpcs:npcmailbox]]
+Inputs:
+net.minecraft.item.ItemStack: [[], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [], [1xitem.ingotIron@0 minecraft:iron_ingot], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xitem.ingotIron@0 minecraft:iron_ingot], [], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [], [], [1xtile.stonebrick@0 minecraft:cobblestone], [1xitem.paper@0 minecraft:paper], []]
+[12:13:29] [Client thread/ERROR]: Recipe has too many inputs. Custom NPCs customnpcs:npc_mailstand_wood_wooden_0 class noppes.npcs.items.crafting.NpcShapedRecipes
+Outputs:
+net.minecraft.item.ItemStack: [[1xtile.npcmailbox@2 customnpcs:npcmailbox]]
+Inputs:
+net.minecraft.item.ItemStack: [[1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xitem.paper@0 minecraft:paper], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [], [], [1xtile.stonebrick@0 minecraft:cobblestone], [], []]
+[12:13:29] [Client thread/ERROR]: Recipe has too many inputs. Custom NPCs customnpcs:npc_mailstand_wood_wooden_1 class noppes.npcs.items.crafting.NpcShapedRecipes
+Outputs:
+net.minecraft.item.ItemStack: [[1xtile.npcmailbox@2 customnpcs:npcmailbox]]
+Inputs:
+net.minecraft.item.ItemStack: [[1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xitem.paper@0 minecraft:paper], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [], [], [1xtile.stonebrick@0 minecraft:cobblestone], [], []]
+[12:13:29] [Client thread/ERROR]: Recipe has too many inputs. Custom NPCs customnpcs:npc_mailstand_wood_wooden_2 class noppes.npcs.items.crafting.NpcShapedRecipes
+Outputs:
+net.minecraft.item.ItemStack: [[1xtile.npcmailbox@2 customnpcs:npcmailbox]]
+Inputs:
+net.minecraft.item.ItemStack: [[], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [1xtile.wood@0 minecraft:planks, 1xtile.wood@1 minecraft:planks, 1xtile.wood@2 minecraft:planks, 1xtile.wood@3 minecraft:planks, 1xtile.wood@4 minecraft:planks, 1xtile.wood@5 minecraft:planks], [], [], [1xtile.stonebrick@0 minecraft:cobblestone], [1xitem.paper@0 minecraft:paper], []]
+[12:13:29] [Client thread/INFO]: Transforming : mezz/jei/gui/recipes/RecipesGui; show(Lmezz/jei/api/recipe/IFocus;)V
+[12:13:29] [Client thread/INFO]: Registering mod plugins took 117.8 ms
+[12:13:29] [Client thread/INFO]: Building recipe registry...
+[12:13:29] [Client thread/INFO]: Building recipe registry took 68.88 ms
+[12:13:29] [Client thread/INFO]: Building ingredient filter and search trees...
+[12:13:29] [Client thread/INFO]: Transforming class mezz/jei/search/PrefixInfo for HEI integration.
+[12:13:29] [Client thread/INFO]: Finding method <clinit> in class mezz/jei/search/PrefixInfo, found.
+[12:13:29] [Client thread/INFO]: Building [default] search tree...
+[12:13:29] [Client thread/INFO]: Building [default] search tree took 40.70 ms
+[12:13:29] [Client thread/INFO]: Building [tooltip] search tree...
+[12:13:29] [Client thread/INFO]: Building [tooltip] search tree took 49.45 ms
+[12:13:29] [pool-17-thread-1/INFO]: Asynchronously building [resource_id] search tree...
+[12:13:29] [pool-17-thread-1/INFO]: Asynchronously building [resource_id] search tree took 191.1 μs
+[12:13:29] [pool-17-thread-1/INFO]: Asynchronously building [color] search tree...
+[12:13:29] [pool-17-thread-1/INFO]: Asynchronously building [color] search tree took 96.70 μs
+[12:13:29] [pool-17-thread-1/INFO]: Asynchronously building [oredict] search tree...
+[12:13:29] [pool-17-thread-1/INFO]: Asynchronously building [oredict] search tree took 125.1 μs
+[12:13:29] [pool-17-thread-1/INFO]: Asynchronously building [mod_name] search tree...
+[12:13:29] [Client thread/INFO]: Building ingredient filter and search trees took 136.2 ms
+[12:13:29] [Client thread/INFO]: Building runtime...
+[12:13:29] [pool-17-thread-1/INFO]: Asynchronously building [mod_name] search tree took 27.18 ms
+[12:13:29] [pool-17-thread-1/INFO]: Asynchronously building [creative_tab] search tree...
+[12:13:29] [pool-17-thread-1/INFO]: Asynchronously building [creative_tab] search tree took 123.8 μs
+[12:13:29] [Client thread/INFO]: Building runtime took 81.54 ms
+[12:13:29] [Client thread/INFO]: Building favorites...
+[12:13:29] [Client thread/INFO]: Building favorites took 2.826 ms
+[12:13:29] [Client thread/INFO]: Building bookmarks...
+[12:13:29] [Client thread/INFO]: Building bookmarks took 92.60 μs
+[12:13:29] [Client thread/INFO]: Starting Had Enough Items took 575.4 ms
+[12:13:29] [Client thread/INFO]: Trimming simple registries
+[12:13:29] [Client thread/INFO]: Cleaning up LaunchClassLoader
+[12:13:29] [Client thread/INFO]: 1727898 total strings processed. 92683 unique strings in LoliStringPool, 1635215 strings deduplicated altogether during game load.
+[12:13:29] [Client thread/INFO]: Took 14.05 ms to canonicalize Java's FilePermission caches.
+[12:13:29] [Client thread/WARN]: Clearing LoliVertexDataPool
+[12:13:29] [Client thread/INFO]: 39392 total quads processed. 21549 unique vertex data array in LoliVertexDataPool, 17843 vertex data arrays deduplicated altogether during game load.
+[12:13:30] [Client thread/INFO]: JEI search tree manager injection complete!
+[12:13:30] [Client thread/INFO]: Forge Mod Loader has successfully loaded 74 mods
+[12:13:30] [Client thread/INFO]: Patching net.minecraft.client.gui.GuiOptions... (ble)
+[12:13:30] [Client thread/INFO]: [FANCYMENU] Updating animation sizes..
+[12:13:30] [Client thread/INFO]: [FANCYMENU] LOADING ANIMATION TEXTURES! THIS CAUSES THE LOADING SCREEN TO FREEZE FOR A WHILE!
+[12:13:30] [Client thread/INFO]: [FANCYMENU] FINISHED LOADING ANIMATION TEXTURES!
+[12:13:30] [Client thread/INFO]: Transforming class cgu for vanilla SuffixArray.
+[12:13:30] [Realms Notification Availability checker #1/INFO]: Release: pc.realms.minecraft.net:-1
+[12:13:30] [Realms Notification Availability checker #1/INFO]: Check: pc.realms.minecraft.net:443
+[12:13:30] [Realms Notification Availability checker #1/INFO]: Release: pc.realms.minecraft.net:443
+[12:13:30] [Realms Notification Availability checker #1/INFO]: Release: pc.realms.minecraft.net:-1
+[12:13:30] [Realms Notification Availability checker #1/INFO]: Release: 13.107.253.49:443
+[12:13:30] [Realms Notification Availability checker #1/INFO]: Release: 13.107.253.49:443
+[12:13:30] [Client thread/INFO]: Error skin loaded.
+[12:13:30] [Snooper Timer/INFO]: Release: snoop.minecraft.net:-1
+[12:13:30] [Snooper Timer/INFO]: Check: snoop.minecraft.net:80
+[12:13:30] [Snooper Timer/INFO]: Release: snoop.minecraft.net:80
+[12:13:30] [Snooper Timer/INFO]: Release: snoop.minecraft.net:-1
+[12:13:30] [Snooper Timer/INFO]: Check: snoop.minecraft.net:80
+[12:13:30] [Snooper Timer/INFO]: Release: snoop.minecraft.net:80
+[12:13:30] [Snooper Timer/INFO]: Check: snoop.minecraft.net:80
+[12:13:30] [Snooper Timer/INFO]: Release: snoop.minecraft.net:80
+[12:13:30] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[12:13:30] [Forge Version Check/INFO]: Release: files.minecraftforge.net:-1
+[12:13:30] [Forge Version Check/INFO]: Check: files.minecraftforge.net:80
+[12:13:30] [Forge Version Check/INFO]: Redirect: files.minecraftforge.net -> 0.0.0.0
+[12:13:30] [Forge Version Check/INFO]: Release: 0.0.0.0:80
+[12:13:30] [Forge Version Check/INFO]: Release: 0.0.0.0:80
+[12:13:30] [Forge Version Check/INFO]: Release: Potato-Champion:-1
+[12:13:32] [Forge Version Check/INFO]: [justenoughdimensions] Starting version check at https://raw.githubusercontent.com/maruohon/justenoughdimensions/master/update.json
+[12:13:32] [Forge Version Check/INFO]: Release: raw.githubusercontent.com:-1
+[12:13:32] [Forge Version Check/INFO]: Check: raw.githubusercontent.com:443
+[12:13:32] [Forge Version Check/INFO]: Redirect: raw.githubusercontent.com -> 0.0.0.0
+[12:13:32] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:32] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:32] [Forge Version Check/INFO]: Release: Potato-Champion:-1
+[12:13:34] [Forge Version Check/INFO]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.12.2
+[12:13:34] [Forge Version Check/INFO]: Release: updates.blamejared.com:-1
+[12:13:34] [Forge Version Check/INFO]: Check: updates.blamejared.com:443
+[12:13:34] [Forge Version Check/INFO]: Redirect: updates.blamejared.com -> 0.0.0.0
+[12:13:34] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:34] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:34] [Forge Version Check/INFO]: Release: Potato-Champion:-1
+[12:13:36] [Forge Version Check/INFO]: [oxygen_groups] Starting version check at https://raw.githubusercontent.com/AustereTony-MCMods/Oxygen-Groups/info/mod_versions_forge.json
+[12:13:36] [Forge Version Check/INFO]: Release: raw.githubusercontent.com:-1
+[12:13:36] [Forge Version Check/INFO]: Check: raw.githubusercontent.com:443
+[12:13:36] [Forge Version Check/INFO]: Redirect: raw.githubusercontent.com -> 0.0.0.0
+[12:13:36] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:36] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:36] [Forge Version Check/INFO]: Release: Potato-Champion:-1
+[12:13:38] [Forge Version Check/INFO]: [topaddons] Starting version check at https://raw.githubusercontent.com/DrManganese/TOPAddons/1.12/FUC.json
+[12:13:38] [Forge Version Check/INFO]: Release: raw.githubusercontent.com:-1
+[12:13:38] [Forge Version Check/INFO]: Check: raw.githubusercontent.com:443
+[12:13:38] [Forge Version Check/INFO]: Redirect: raw.githubusercontent.com -> 0.0.0.0
+[12:13:38] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:38] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:38] [Forge Version Check/INFO]: Release: Potato-Champion:-1
+[12:13:40] [Forge Version Check/INFO]: [customplayermodels] Starting version check at https://raw.githubusercontent.com/tom5454/CustomPlayerModels/master/version-check.json
+[12:13:40] [Forge Version Check/INFO]: Release: raw.githubusercontent.com:-1
+[12:13:40] [Forge Version Check/INFO]: Check: raw.githubusercontent.com:443
+[12:13:40] [Forge Version Check/INFO]: Redirect: raw.githubusercontent.com -> 0.0.0.0
+[12:13:40] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:40] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:40] [Forge Version Check/INFO]: Release: Potato-Champion:-1
+[12:13:42] [Forge Version Check/INFO]: [oxygen_playerslist] Starting version check at https://raw.githubusercontent.com/AustereTony-MCMods/Oxygen-Players-List/info/mod_versions_forge.json
+[12:13:42] [Forge Version Check/INFO]: Release: raw.githubusercontent.com:-1
+[12:13:42] [Forge Version Check/INFO]: Check: raw.githubusercontent.com:443
+[12:13:42] [Forge Version Check/INFO]: Redirect: raw.githubusercontent.com -> 0.0.0.0
+[12:13:42] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:42] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:42] [Forge Version Check/INFO]: Release: Potato-Champion:-1
+[12:13:44] [Forge Version Check/INFO]: [oxygen_shop] Starting version check at https://raw.githubusercontent.com/AustereTony-MCMods/Oxygen-Shop/info/mod_versions_forge.json
+[12:13:44] [Forge Version Check/INFO]: Release: raw.githubusercontent.com:-1
+[12:13:44] [Forge Version Check/INFO]: Check: raw.githubusercontent.com:443
+[12:13:44] [Forge Version Check/INFO]: Redirect: raw.githubusercontent.com -> 0.0.0.0
+[12:13:44] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:44] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:44] [Forge Version Check/INFO]: Release: Potato-Champion:-1
+[12:13:46] [Forge Version Check/INFO]: [oxygen_friendslist] Starting version check at https://raw.githubusercontent.com/AustereTony-MCMods/Oxygen-Friends-List/info/mod_versions_forge.json
+[12:13:46] [Forge Version Check/INFO]: Release: raw.githubusercontent.com:-1
+[12:13:46] [Forge Version Check/INFO]: Check: raw.githubusercontent.com:443
+[12:13:46] [Forge Version Check/INFO]: Redirect: raw.githubusercontent.com -> 0.0.0.0
+[12:13:46] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:46] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:46] [Forge Version Check/INFO]: Release: Potato-Champion:-1
+[12:13:48] [Forge Version Check/INFO]: [armourers_workshop] Starting version check at http://plushie.moe/app_update/minecraft_mods/armourers_workshop/update.json
+[12:13:48] [Forge Version Check/INFO]: Release: plushie.moe:-1
+[12:13:48] [Forge Version Check/INFO]: Check: plushie.moe:80
+[12:13:48] [Forge Version Check/INFO]: Redirect: plushie.moe -> 0.0.0.0
+[12:13:48] [Forge Version Check/INFO]: Release: 0.0.0.0:80
+[12:13:48] [Forge Version Check/INFO]: Release: 0.0.0.0:80
+[12:13:48] [Forge Version Check/INFO]: Release: Potato-Champion:-1
+[12:13:50] [Forge Version Check/INFO]: [oxygen_cp_ge] Starting version check at https://raw.githubusercontent.com/AustereTony-MCMods/Oxygen-Currency-Provider/info/grand_economy_versions.json
+[12:13:50] [Forge Version Check/INFO]: Release: raw.githubusercontent.com:-1
+[12:13:50] [Forge Version Check/INFO]: Check: raw.githubusercontent.com:443
+[12:13:50] [Forge Version Check/INFO]: Redirect: raw.githubusercontent.com -> 0.0.0.0
+[12:13:50] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:50] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:50] [Forge Version Check/INFO]: Release: Potato-Champion:-1
+[12:13:51] [Client thread/INFO]: Reloading ResourceManager: BetterFps, Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Had Enough Characters, FMLFileResourcePack:Just Enough Characters, FMLFileResourcePack:Equipment Compare, FMLFileResourcePack:Graphene, FMLFileResourcePack:ConfigAnytime, FMLFileResourcePack:Armor Curve, FMLFileResourcePack:Armourer's Workshop, FMLFileResourcePack:Attribute Fix, FMLFileResourcePack:B.A.S.E, FMLFileResourcePack:Baubles, FMLFileResourcePack:Inventory Bogo Sorter, FMLFileResourcePack:ClassicBar Legacy, FMLFileResourcePack:ContentTweaker, FMLFileResourcePack:Controlling, FMLFileResourcePack:CT-GUI, FMLFileResourcePack:CraftTweaker2, FMLFileResourcePack:CraftTweaker JEI Support, FMLFileResourcePack:Custom NPCs, FMLFileResourcePack:Custom Cursor Mod, FMLFileResourcePack:Customizable Player Models, FMLFileResourcePack:Ding, FMLFileResourcePack:Exhausted Stamina, FMLFileResourcePack:FancyMenu, FMLFileResourcePack:FastFurnace, FMLFileResourcePack:FastWorkbench, FMLFileResourcePack:FoamFix, FMLFileResourcePack:FTB Backups, FMLFileResourcePack:Grand Economy, FMLFileResourcePack:Had Enough Items, FMLFileResourcePack:Highlighter, FMLFileResourcePack:Inventory HUD+, FMLFileResourcePack:Item Zoom, FMLFileResourcePack:JEI Utilities, FMLFileResourcePack:Just Enough Dimensions, FMLFileResourcePack:Konkrete, FMLFileResourcePack:Legendary Tooltips, FMLFileResourcePack:LoliASM, FMLFileResourcePack:Mapmaker's Gadgets, FMLFileResourcePack:MiscTweaks, FMLFileResourcePack:ModularUI, FMLFileResourcePack:MorePlayerModels, FMLFileResourcePack:No Damage Immunity (NoDamI), FMLFileResourcePack:No Recipe Book, FMLFileResourcePack:Oxygen Core, FMLFileResourcePack:Grand Economy Currency Provider, FMLFileResourcePack:Oxygen: Daily Rewards, FMLFileResourcePack:Oxygen: Exchange, FMLFileResourcePack:Oxygen: Friends List, FMLFileResourcePack:Oxygen: Groups, FMLFileResourcePack:Oxygen: Mail, FMLFileResourcePack:Oxygen: Market, FMLFileResourcePack:Oxygen: Menu, FMLFileResourcePack:Oxygen: Merchants, FMLFileResourcePack:Oxygen: Player Interaction, FMLFileResourcePack:Oxygen: Players List, FMLFileResourcePack:Oxygen: Shop, FMLFileResourcePack:Oxygen: Store, FMLFileResourcePack:Oxygen: Teleportation, FMLFileResourcePack:Placebo, FMLFileResourcePack:ProbeZS, FMLFileResourcePack:Reskillable, FMLFileResourcePack:The One Probe, FMLFileResourcePack:Toast Control, FMLFileResourcePack:TOP Addons, FMLFileResourcePack:ToroHealth Damage Indicators, FMLFileResourcePack:Trajectory Preview, FMLFileResourcePack:WorldEdit, FMLFileResourcePack:ZenUtils, resources, Minecraft-Mod-Language-Modpack.zip
+[12:13:51] [Client thread/INFO]: Loading GUI resources.
+[12:13:51] [Client thread/INFO]: Created: 256x128 textures-atlas
+[12:13:51] [Finalizer/WARN]: Clearing LoliStringPool 1
+[12:13:52] [Client thread/INFO]: SoundSystem shutting down...
+[12:13:52] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[12:13:52] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[12:13:52] [Thread-25/INFO]: Initializing LWJGL OpenAL
+[12:13:52] [Thread-25/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:13:52] [Thread-25/INFO]: OpenAL initialized.
+[12:13:52] [Forge Version Check/INFO]: [oxygen_mail] Starting version check at https://raw.githubusercontent.com/AustereTony-MCMods/Oxygen-Mail/info/mod_versions_forge.json
+[12:13:52] [Forge Version Check/INFO]: Release: raw.githubusercontent.com:-1
+[12:13:52] [Forge Version Check/INFO]: Check: raw.githubusercontent.com:443
+[12:13:52] [Forge Version Check/INFO]: Redirect: raw.githubusercontent.com -> 0.0.0.0
+[12:13:52] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:52] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:52] [Forge Version Check/INFO]: Release: Potato-Champion:-1
+[12:13:53] [Sound Library Loader/INFO]: Sound engine started
+[12:13:53] [Client thread/INFO]: Max texture size: 16384
+[12:13:54] [Client thread/INFO]: Created: 2048x1024 textures-atlas
+[12:13:54] [Client thread/INFO]: Clearing unnecessary model registry of size 3687.
+[12:13:54] [Client thread/INFO]: Clearing unnecessary model store of size 5572.
+[12:13:54] [Client thread/INFO]: Clearing unnecessary item shapes cache of size 510.
+[12:13:54] [Client thread/INFO]: Clearing ModelLoaderRegistry cache (4626 items)...
+[12:13:54] [Client thread/INFO]: Cleared 4621 objects.
+[12:13:54] [Client thread/INFO]: Deduplicating...
+[12:13:54] [Client thread/INFO]: Deduplicating models...
+[12:13:54] [Client thread/INFO]: Deduplicated 20886 (+ 22896) objects.
+[12:13:54] [Client thread/INFO]: Cleaning up ModelLoader...
+[12:13:54] [Client thread/INFO]: Clearing and Trimming multipartModels, original size: 31 entries
+[12:13:54] [Client thread/INFO]: Clearing and Trimming multipartDefinitions, original size: 649 entries
+[12:13:54] [Client thread/INFO]: Clearing and Trimming multipartVariantMap, original size: 0 entries
+[12:13:54] [Client thread/INFO]: Clearing and Trimming blockDefinitions, original size: 455 entries
+[12:13:54] [Client thread/INFO]: Evicted 950 sprites' frame texture data
+[12:13:54] [Client thread/INFO]: JEI search tree manager injection complete!
+[12:13:54] [Client thread/INFO]: Loaded 0 built-in, 0 custom block tags
+[12:13:54] [Client thread/INFO]: Loaded 6 built-in, 0 custom item tags
+[12:13:54] [Client thread/INFO]: Loaded 0 built-in, 0 custom entity tags
+[12:13:54] [Client thread/INFO]: Loaded 0 built-in, 0 custom biome tags
+[12:13:54] [Client thread/INFO]: Reloading Themes...
+[12:13:54] [Client thread/INFO]: Found themes.json's at [modularui:themes.json]
+[12:13:54] [Client thread/INFO]: Reloading HEI ingredient filter.
+[12:13:54] [Client thread/INFO]: Updating ingredient filter...
+[12:13:54] [Client thread/INFO]: Building [default] search tree...
+[12:13:54] [Client thread/INFO]: Building [default] search tree took 18.87 ms
+[12:13:54] [Client thread/INFO]: Building [tooltip] search tree...
+[12:13:54] [Client thread/INFO]: Building [tooltip] search tree took 18.05 ms
+[12:13:54] [pool-21-thread-1/INFO]: Asynchronously building [resource_id] search tree...
+[12:13:54] [pool-21-thread-1/INFO]: Asynchronously building [resource_id] search tree took 142.9 μs
+[12:13:54] [pool-21-thread-1/INFO]: Asynchronously building [color] search tree...
+[12:13:54] [pool-21-thread-1/INFO]: Asynchronously building [color] search tree took 79.90 μs
+[12:13:54] [pool-21-thread-1/INFO]: Asynchronously building [oredict] search tree...
+[12:13:54] [pool-21-thread-1/INFO]: Asynchronously building [oredict] search tree took 80.30 μs
+[12:13:54] [pool-21-thread-1/INFO]: Asynchronously building [mod_name] search tree...
+[12:13:54] [pool-21-thread-1/INFO]: Asynchronously building [mod_name] search tree took 2.201 ms
+[12:13:54] [pool-21-thread-1/INFO]: Asynchronously building [creative_tab] search tree...
+[12:13:54] [pool-21-thread-1/INFO]: Asynchronously building [creative_tab] search tree took 95.00 μs
+[12:13:54] [Client thread/INFO]: Updated ingredient filter in 51 ms
+[12:13:54] [Forge Version Check/INFO]: [oxygen_menu] Starting version check at https://raw.githubusercontent.com/AustereTony-MCMods/Oxygen-Menu/info/mod_versions_forge.json
+[12:13:54] [Forge Version Check/INFO]: Release: raw.githubusercontent.com:-1
+[12:13:54] [Forge Version Check/INFO]: Check: raw.githubusercontent.com:443
+[12:13:54] [Forge Version Check/INFO]: Redirect: raw.githubusercontent.com -> 0.0.0.0
+[12:13:54] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:54] [Forge Version Check/INFO]: Release: 0.0.0.0:443
+[12:13:54] [Forge Version Check/INFO]: Release: Potato-Champion:-1
+[12:13:59] [Client thread/INFO]: [Line #265] checkLocalization() "Check Mod Localization"
+[12:14:00] [Client thread/INFO]: [FANCYMENU] Updating animation sizes..
+[12:14:02] [Client thread/INFO]: Stopping!
+[12:14:02] [Client thread/INFO]: SoundSystem shutting down...
+[12:14:02] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

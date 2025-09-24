@@ -1,0 +1,13 @@
+{
+	"Scripts": {
+		"Script": "",
+		"Console": [
+		],
+		"ScriptList": [
+		],
+		"isClient": 1b,
+		"HasNoEncryptScriptCode": 0b
+	},
+	"ScriptLanguage": "ECMAScript",
+	"ScriptEnabled": 1b
+}

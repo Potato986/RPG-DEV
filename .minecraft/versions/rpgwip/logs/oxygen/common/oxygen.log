@@ -1,0 +1,42 @@
+[24-Sep-2025 12:13:26] [Client thread] [Oxygen]: [Core] Loaded config for <oxygen_core>.
+[24-Sep-2025 12:13:26] [Client thread] [Oxygen]: [Core] Loaded config for <oxygen_core:privileges>.
+[24-Sep-2025 12:13:26] [Client thread] [Oxygen]: [Core] Loaded config for <oxygen_cp_ge>.
+[24-Sep-2025 12:13:26] [Client thread] [Oxygen]: [Core] Loaded config for <oxygen_dailyrewards>.
+[24-Sep-2025 12:13:26] [Client thread] [Oxygen]: [Core] Loaded config for <oxygen_exchange>.
+[24-Sep-2025 12:13:26] [Client thread] [Oxygen]: [Core] Loaded config for <oxygen_friendslist>.
+[24-Sep-2025 12:13:26] [Client thread] [Oxygen]: [Core] Loaded config for <oxygen_groups>.
+[24-Sep-2025 12:13:26] [Client thread] [Oxygen]: [Core] Loaded config for <oxygen_mail>.
+[24-Sep-2025 12:13:26] [Client thread] [Oxygen]: [Core] Loaded config for <oxygen_market>.
+[24-Sep-2025 12:13:26] [Client thread] [Oxygen]: [Core] Loaded config for <oxygen_menu>.
+[24-Sep-2025 12:13:26] [Client thread] [Oxygen]: [Core] Loaded config for <oxygen_merchants>.
+[24-Sep-2025 12:13:26] [Client thread] [Oxygen]: [Core] Loaded config for <oxygen_playerslist>.
+[24-Sep-2025 12:13:26] [Client thread] [Oxygen]: [Core] Loaded config for <oxygen_shop>.
+[24-Sep-2025 12:13:26] [Client thread] [Oxygen]: [Core] Loaded config for <oxygen_store>.
+[24-Sep-2025 12:13:26] [Client thread] [Oxygen]: [Core] Loaded config for <oxygen_teleportation>.
+[24-Sep-2025 12:13:26] [Client thread] [Oxygen]: [Core] Network handler <oxygen_core> created.
+[24-Sep-2025 12:13:27] [Client thread] [Oxygen]: [Core] Registered <core:shared_data_server> persistent data.
+[24-Sep-2025 12:13:27] [Client thread] [Oxygen]: [Daily Rewards] Scheduled rewards reloading for <October> at: 2025-10-01 00:00:01 CST
+[24-Sep-2025 12:13:27] [Client thread] [Oxygen]: [Core] Registered <friendslist:player_data_client> persistent data.
+[24-Sep-2025 12:13:27] [Client thread] [Oxygen]: [Core] Registered <groups:groups_data_server> persistent data.
+[24-Sep-2025 12:13:27] [Client thread] [Oxygen]: [Core] Registered <mail:mailboxes_server> persistent data.
+[24-Sep-2025 12:13:27] [Client thread] [Oxygen]: [Core] Registered <mail:mailbox_client> persistent data.
+[24-Sep-2025 12:13:27] [Client thread] [Oxygen]: [Core] Registered <market:offers_data_server> persistent data.
+[24-Sep-2025 12:13:27] [Client thread] [Oxygen]: [Core] Registered <market:sales_history_server> persistent data.
+[24-Sep-2025 12:13:27] [Client thread] [Oxygen]: [Core] Registered <market:offers_data_client> persistent data.
+[24-Sep-2025 12:13:27] [Client thread] [Oxygen]: [Core] Registered <market:sales_history_client> persistent data.
+[24-Sep-2025 12:13:27] [Client thread] [Oxygen]: [Core] Registered <merchants:merchant_profiles_client> persistent data.
+[24-Sep-2025 12:13:27] [Client thread] [Oxygen]: [Core] Registered <shop:shop_data_client> persistent data.
+[24-Sep-2025 12:13:27] [Client thread] [Oxygen]: [Core] Registered <store:players_data_server> persistent data.
+[24-Sep-2025 12:13:27] [Client thread] [Oxygen]: [Core] Registered <store:offers_client> persistent data.
+[24-Sep-2025 12:13:27] [Client thread] [Oxygen]: [Core] Registered <store:player_data_client> persistent data.
+[24-Sep-2025 12:13:27] [Client thread] [Oxygen]: [Core] Registered <teleportation:shared_camps_server> persistent data.
+[24-Sep-2025 12:13:27] [Client thread] [Oxygen]: [Core] Registered <teleportation:locations_server> persistent data.
+[24-Sep-2025 12:13:27] [Client thread] [Oxygen]: [Core] Registered <teleportation:player_data> persistent data.
+[24-Sep-2025 12:13:27] [Client thread] [Oxygen]: [Core] Registered <teleportation:shared_camps_client> persistent data.
+[24-Sep-2025 12:13:27] [Client thread] [Oxygen]: [Core] Registered <teleportation:locations_client> persistent data.
+[24-Sep-2025 12:13:28] [Client thread] [Oxygen]: [Core] Network channel <oxygen_core> holds 100 packets.
+[24-Sep-2025 12:13:28] [Oxygen IO #1 SERVER] [Oxygen]: [Core] Presets loading started...
+[24-Sep-2025 12:13:28] [Oxygen IO #0 SERVER] [Oxygen]: [Core] Loaded items blacklist for <exchange>.
+[24-Sep-2025 12:13:28] [Oxygen IO #0 SERVER] [Oxygen]: [Core] Loaded items blacklist for <mail>.
+[24-Sep-2025 12:13:28] [Oxygen IO #0 SERVER] [Oxygen]: [Core] Loaded items blacklist for <market>.
+[24-Sep-2025 12:13:28] [Oxygen IO #1 SERVER] [Oxygen]: [Core] Preset <item_categories> loaded successfully.

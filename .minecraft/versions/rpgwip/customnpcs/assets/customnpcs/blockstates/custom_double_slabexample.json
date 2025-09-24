@@ -1,0 +1,1 @@
+{	"_comment": "Custom Block Double Slab created by default",	"variants": {		"type=normal":  { "model": "customnpcs:custom_double_slabexample" },		"type=all":  { "model": "customnpcs:custom_double_slabexample_top" },		"inventory":  { "model": "customnpcs:custom_double_slabexample" }	}}

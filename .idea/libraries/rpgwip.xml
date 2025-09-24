@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rpgwip">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.minecraft/versions/rpgwip/rpgwip.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

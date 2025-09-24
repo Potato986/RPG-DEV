@@ -1,0 +1,1 @@
+{	"_comment": "Custom Door Block created by default",	"parent": "block/door_bottom",	"textures": {		"bottom": "customnpcs:blocks/custom_doorexample_lower",		"top": "customnpcs:blocks/custom_doorexample_upper"	}}

@@ -1,0 +1,1 @@
+{	"_comment": "Custom Stairs Block created by default",	"parent": "block/outer_stairs",	"textures": {		"top": "customnpcs:blocks/custom_stairsexample_top",		"bottom": "customnpcs:blocks/custom_stairsexample_bottom",		"side": "customnpcs:blocks/custom_stairsexample_side"	}}

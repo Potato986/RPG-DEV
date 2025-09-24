@@ -1,0 +1,1 @@
+{	"_comment": "Custom Slab Double Block created by default",	"parent": "block/cube_all",	"textures": {		"all": "customnpcs:blocks/custom_slabexample_top"	}}

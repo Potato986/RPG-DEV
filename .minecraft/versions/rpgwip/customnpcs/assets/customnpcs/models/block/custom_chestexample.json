@@ -1,0 +1,1 @@
+{	"_comment": "Custom Chest Block created by default",	"parent": "customnpcs:block/chest",	"textures": {		"chest": "customnpcs:entity/chest/custom_chestexample",		"particle": "customnpcs:entity/chest/custom_chestexample"	}}

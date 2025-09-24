@@ -1,0 +1,1 @@
+{	"_comment": "Custom Block Portal created by default",	"variants": {		"type=0": { "model": "customnpcs:custom_portalexample" },		"type=1": { "model": "customnpcs:custom_portalexample" },		"type=2": { "model": "customnpcs:custom_portalexample" },		"normal": { "model": "customnpcs:custom_portalexample" },		"inventory": { "model": "customnpcs:custom_portalexample" }	}}

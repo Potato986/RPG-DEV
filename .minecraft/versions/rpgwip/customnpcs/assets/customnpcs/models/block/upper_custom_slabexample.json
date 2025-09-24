@@ -1,0 +1,1 @@
+{	"_comment": "Custom Slab Simple Block created by default",	"parent": "block/upper_slab",	"textures": {		"top": "customnpcs:blocks/custom_slabexample_top",		"bottom": "customnpcs:blocks/custom_slabexample_bottom",		"side": "customnpcs:blocks/custom_slabexample_side"	}}

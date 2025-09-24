@@ -1,0 +1,4 @@
+{	"_comment": "Custom FasingProperty Block Model created by default",	"variants": {		"normal": { "model": "customnpcs:custom_facingblockexample" },		"inventory": { "model": "customnpcs:custom_facingblockexample" },		"facing=north": { "model": "customnpcs:custom_facingblockexample" },
+		"facing=south": { "model": "customnpcs:custom_facingblockexample", "y": 180 },
+		"facing=west": { "model": "customnpcs:custom_facingblockexample", "y": 270 },
+		"facing=east": { "model": "customnpcs:custom_facingblockexample", "y": 90 }	}}

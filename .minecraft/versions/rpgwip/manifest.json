@@ -1,0 +1,509 @@
+{
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "rpgwip",
+  "version": "1.0",
+  "author": "",
+  "overrides": "overrides",
+  "minecraft": {
+    "version": "1.12.2",
+    "modLoaders": [
+      {
+        "id": "forge-14.23.5.2860",
+        "primary": true
+      }
+    ]
+  },
+  "files": [
+    {
+      "projectID": 502561,
+      "fileID": 4360293,
+      "fileName": "EquipmentCompare-1.12.2-1.3.4.jar",
+      "url": "https://edge.forgecdn.net/files/4360/293/EquipmentCompare-1.12.2-1.3.4.jar",
+      "required": true
+    },
+    {
+      "projectID": 286717,
+      "fileID": 2530117,
+      "fileName": "Mapmaker\u0027s Gadgets-1.2_for_1.12.x.jar",
+      "url": "https://edge.forgecdn.net/files/2530/117/Mapmaker%27s%20Gadgets-1.2_for_1.12.x.jar",
+      "required": true
+    },
+    {
+      "projectID": 247070,
+      "fileID": 2633243,
+      "fileName": "JEIHider-1.1c.jar",
+      "url": "https://edge.forgecdn.net/files/2633/243/JEIHider-1.1c.jar",
+      "required": true
+    },
+    {
+      "projectID": 328247,
+      "fileID": 2974812,
+      "fileName": "oxygen-player-interaction-1.12.2-0.11.1.jar",
+      "url": "https://edge.forgecdn.net/files/2974/812/oxygen-player-interaction-1.12.2-0.11.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 280510,
+      "fileID": 4427962,
+      "fileName": "AttributeFix-Forge-1.12.2-1.0.12.jar",
+      "url": "https://edge.forgecdn.net/files/4427/962/AttributeFix-Forge-1.12.2-1.0.12.jar",
+      "required": true
+    },
+    {
+      "projectID": 288885,
+      "fileID": 4030366,
+      "fileName": "FastWorkbench-1.12.2-1.7.4.jar",
+      "url": "https://edge.forgecdn.net/files/4030/366/FastWorkbench-1.12.2-1.7.4.jar",
+      "required": true
+    },
+    {
+      "projectID": 359707,
+      "fileID": 2983941,
+      "fileName": "oxygen-daily-rewards-1.12.2-0.11.2.jar",
+      "url": "https://edge.forgecdn.net/files/2983/941/oxygen-daily-rewards-1.12.2-0.11.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 297404,
+      "fileID": 6351071,
+      "fileName": "I18nUpdateMod-3.6.2-all.jar",
+      "url": "https://edge.forgecdn.net/files/6351/71/I18nUpdateMod-3.6.2-all.jar",
+      "required": true
+    },
+    {
+      "projectID": 239197,
+      "fileID": 6929088,
+      "fileName": "CraftTweaker2-1.12-4.1.20.709.jar",
+      "url": "https://edge.forgecdn.net/files/6929/88/CraftTweaker2-1.12-4.1.20.709.jar",
+      "required": true
+    },
+    {
+      "projectID": 245211,
+      "fileID": 2667280,
+      "fileName": "theoneprobe-1.12-1.4.28.jar",
+      "url": "https://edge.forgecdn.net/files/2667/280/theoneprobe-1.12-1.4.28.jar",
+      "required": true
+    },
+    {
+      "projectID": 237065,
+      "fileID": 3331364,
+      "fileName": "ContentTweaker-1.12.2-4.10.0.jar",
+      "url": "https://edge.forgecdn.net/files/3331/364/ContentTweaker-1.12.2-4.10.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 640802,
+      "fileID": 4874506,
+      "fileName": "hecharacters-1.12.2-1.4.1.jar",
+      "url": "https://edge.forgecdn.net/files/4874/506/hecharacters-1.12.2-1.4.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 271740,
+      "fileID": 2707353,
+      "fileName": "Toast Control-1.12.2-1.8.1.jar",
+      "url": "https://edge.forgecdn.net/files/2707/353/Toast%20Control-1.12.2-1.8.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 250398,
+      "fileID": 5408385,
+      "fileName": "Controlling-3.0.12.4.jar",
+      "url": "https://edge.forgecdn.net/files/5408/385/Controlling-3.0.12.4.jar",
+      "required": true
+    },
+    {
+      "projectID": 309874,
+      "fileID": 2691689,
+      "fileName": "exhaustedstamina-1.2.jar",
+      "url": "https://edge.forgecdn.net/files/2691/689/exhaustedstamina-1.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 976391,
+      "fileID": 5117948,
+      "fileName": "Reskillable-1.12.2-1.13.1.jar",
+      "url": "https://edge.forgecdn.net/files/5117/948/Reskillable-1.12.2-1.13.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 318414,
+      "fileID": 2985978,
+      "fileName": "oxygen-core-1.12.2-0.11.4.jar",
+      "url": "https://edge.forgecdn.net/files/2985/978/oxygen-core-1.12.2-0.11.4.jar",
+      "required": true
+    },
+    {
+      "projectID": 245733,
+      "fileID": 2483817,
+      "fileName": "torohealth-1.12.2-11.jar",
+      "url": "https://edge.forgecdn.net/files/2483/817/torohealth-1.12.2-11.jar",
+      "required": true
+    },
+    {
+      "projectID": 299540,
+      "fileID": 2706111,
+      "fileName": "FastFurnace-1.12.2-1.3.1.jar",
+      "url": "https://edge.forgecdn.net/files/2706/111/FastFurnace-1.12.2-1.3.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 247111,
+      "fileID": 2887479,
+      "fileName": "topaddons-1.12.2-1.13.0.jar",
+      "url": "https://edge.forgecdn.net/files/2887/479/topaddons-1.12.2-1.13.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 254317,
+      "fileID": 2932048,
+      "fileName": "justenoughdimensions-1.12.2-1.6.0-dev.20200416.184714.jar",
+      "url": "https://edge.forgecdn.net/files/2932/48/justenoughdimensions-1.12.2-1.6.0-dev.20200416.184714.jar",
+      "required": true
+    },
+    {
+      "projectID": 377088,
+      "fileID": 2972692,
+      "fileName": "armorcurve-1.2.9.jar",
+      "url": "https://edge.forgecdn.net/files/2972/692/armorcurve-1.2.9.jar",
+      "required": true
+    },
+    {
+      "projectID": 357540,
+      "fileID": 3565980,
+      "fileName": "InventoryHUD-1.12.2.forge-3.4.4.jar",
+      "url": "https://edge.forgecdn.net/files/3565/980/InventoryHUD-1.12.2.forge-3.4.4.jar",
+      "required": true
+    },
+    {
+      "projectID": 521590,
+      "fileID": 4698918,
+      "fileName": "Highlighter-1.12.2-forge-1.1.7.jar",
+      "url": "https://edge.forgecdn.net/files/4698/918/Highlighter-1.12.2-forge-1.1.7.jar",
+      "required": true
+    },
+    {
+      "projectID": 616190,
+      "fileID": 6937116,
+      "fileName": "JEI-Utilities-1.12.2-0.2.13.jar",
+      "url": "https://edge.forgecdn.net/files/6937/116/JEI-Utilities-1.12.2-0.2.13.jar",
+      "required": true
+    },
+    {
+      "projectID": 320797,
+      "fileID": 2979503,
+      "fileName": "oxygen-groups-1.12.2-0.11.2.jar",
+      "url": "https://edge.forgecdn.net/files/2979/503/oxygen-groups-1.12.2-0.11.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 318417,
+      "fileID": 2974821,
+      "fileName": "oxygen-teleportation-1.12.2-0.11.1.jar",
+      "url": "https://edge.forgecdn.net/files/2974/821/oxygen-teleportation-1.12.2-0.11.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 231275,
+      "fileID": 2801170,
+      "fileName": "Ding-1.12.2-1.0.2.jar",
+      "url": "https://edge.forgecdn.net/files/2801/170/Ding-1.12.2-1.0.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 267721,
+      "fileID": 2969453,
+      "fileName": "nodami-1.12.2-1.3.1.jar",
+      "url": "https://edge.forgecdn.net/files/2969/453/nodami-1.12.2-1.3.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 314904,
+      "fileID": 2819669,
+      "fileName": "FTBBackups-1.1.0.1.jar",
+      "url": "https://edge.forgecdn.net/files/2819/669/FTBBackups-1.1.0.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 246996,
+      "fileID": 3440963,
+      "fileName": "base-1.12.2-3.14.0.jar",
+      "url": "https://edge.forgecdn.net/files/3440/963/base-1.12.2-3.14.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 283644,
+      "fileID": 4629597,
+      "fileName": "Placebo-1.12.2-1.6.1.jar",
+      "url": "https://edge.forgecdn.net/files/4629/597/Placebo-1.12.2-1.6.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 256359,
+      "fileID": 2656640,
+      "fileName": "NonUpdate-AllMCVersion-Final-2.0.2-universal.jar",
+      "url": "https://edge.forgecdn.net/files/2656/640/NonUpdate-AllMCVersion-Final-2.0.2-universal.jar",
+      "required": true
+    },
+    {
+      "projectID": 389575,
+      "fileID": 2981863,
+      "fileName": "oxygen-store-1.12.2-0.11.1.jar",
+      "url": "https://edge.forgecdn.net/files/2981/863/oxygen-store-1.12.2-0.11.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 225608,
+      "fileID": 2941712,
+      "fileName": "worldedit-forge-mc1.12.2-6.1.10-dist.jar",
+      "url": "https://edge.forgecdn.net/files/2941/712/worldedit-forge-mc1.12.2-6.1.10-dist.jar",
+      "required": true
+    },
+    {
+      "projectID": 278476,
+      "fileID": 2604749,
+      "fileName": "CustomCursorMod-1.2.2.jar",
+      "url": "https://edge.forgecdn.net/files/2604/749/CustomCursorMod-1.2.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 357178,
+      "fileID": 3437402,
+      "fileName": "_MixinBootstrap-1.1.0.jar",
+      "url": "https://edge.forgecdn.net/files/3437/402/_MixinBootstrap-1.1.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 342390,
+      "fileID": 2983953,
+      "fileName": "oxygen-market-1.12.2-0.11.2.jar",
+      "url": "https://edge.forgecdn.net/files/2983/953/oxygen-market-1.12.2-0.11.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 289141,
+      "fileID": 2580608,
+      "fileName": "Trajectory Preview-1.12.2-0.3.jar",
+      "url": "https://edge.forgecdn.net/files/2580/608/Trajectory%20Preview-1.12.2-0.3.jar",
+      "required": true
+    },
+    {
+      "projectID": 1086839,
+      "fileID": 6866591,
+      "fileName": "Custom NPCs 1.12.2 Unofficial-v.4.431-08Aug2025-Snapshot.jar",
+      "url": "https://edge.forgecdn.net/files/6866/591/Custom%20NPCs%201.12.2%20Unofficial-v.4.431-08Aug2025-Snapshot.jar",
+      "required": true
+    },
+    {
+      "projectID": 557549,
+      "fileID": 6963093,
+      "fileName": "HadEnoughItems_1.12.2-4.29.7.jar",
+      "url": "https://edge.forgecdn.net/files/6963/93/HadEnoughItems_1.12.2-4.29.7.jar",
+      "required": true
+    },
+    {
+      "projectID": 328244,
+      "fileID": 2974814,
+      "fileName": "oxygen-players-list-1.12.2-0.11.1.jar",
+      "url": "https://edge.forgecdn.net/files/2974/814/oxygen-players-list-1.12.2-0.11.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 245603,
+      "fileID": 2709481,
+      "fileName": "MiscTweaks-1.12.2-1.5.0.jar",
+      "url": "https://edge.forgecdn.net/files/2709/481/MiscTweaks-1.12.2-1.5.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 250702,
+      "fileID": 4692184,
+      "fileName": "jecharacters-1.12.0-3.7.2.jar",
+      "url": "https://edge.forgecdn.net/files/4692/184/jecharacters-1.12.0-3.7.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 624243,
+      "fileID": 6919652,
+      "fileName": "modularui-2.5.0-rc6.jar",
+      "url": "https://edge.forgecdn.net/files/6919/652/modularui-2.5.0-rc6.jar",
+      "required": true
+    },
+    {
+      "projectID": 261725,
+      "fileID": 2643616,
+      "fileName": "itemzoom_1.12.2-1.11.jar",
+      "url": "https://edge.forgecdn.net/files/2643/616/itemzoom_1.12.2-1.11.jar",
+      "required": true
+    },
+    {
+      "projectID": 278494,
+      "fileID": 3973967,
+      "fileName": "foamfix-0.10.15-1.12.2.jar",
+      "url": "https://edge.forgecdn.net/files/3973/967/foamfix-0.10.15-1.12.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 335138,
+      "fileID": 2974810,
+      "fileName": "oxygen-menu-1.12.2-0.11.1.jar",
+      "url": "https://edge.forgecdn.net/files/2974/810/oxygen-menu-1.12.2-0.11.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 367706,
+      "fileID": 4655936,
+      "fileName": "fancymenu_forge_2.14.9_MC_1.12-1.12.2.jar",
+      "url": "https://edge.forgecdn.net/files/4655/936/fancymenu_forge_2.14.9_MC_1.12-1.12.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 870276,
+      "fileID": 5212709,
+      "fileName": "!configanytime-3.0.jar",
+      "url": "https://edge.forgecdn.net/files/5212/709/!configanytime-3.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 460609,
+      "fileID": 6854259,
+      "fileName": "loliasm-5.29.jar",
+      "url": "https://edge.forgecdn.net/files/6854/259/loliasm-5.29.jar",
+      "required": true
+    },
+    {
+      "projectID": 439870,
+      "fileID": 6843731,
+      "fileName": "CustomPlayerModels-1.12.2-0.6.24a.jar",
+      "url": "https://edge.forgecdn.net/files/6843/731/CustomPlayerModels-1.12.2-0.6.24a.jar",
+      "required": true
+    },
+    {
+      "projectID": 328248,
+      "fileID": 2974811,
+      "fileName": "oxygen-merchants-1.12.2-0.11.1.jar",
+      "url": "https://edge.forgecdn.net/files/2974/811/oxygen-merchants-1.12.2-0.11.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 229876,
+      "fileID": 2483393,
+      "fileName": "BetterFps-1.4.8.jar",
+      "url": "https://edge.forgecdn.net/files/2483/393/BetterFps-1.4.8.jar",
+      "required": true
+    },
+    {
+      "projectID": 328245,
+      "fileID": 2974801,
+      "fileName": "oxygen-friends-list-1.12.2-0.11.1.jar",
+      "url": "https://edge.forgecdn.net/files/2974/801/oxygen-friends-list-1.12.2-0.11.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 632327,
+      "fileID": 6717232,
+      "fileName": "bogosorter-1.4.11.jar",
+      "url": "https://edge.forgecdn.net/files/6717/232/bogosorter-1.4.11.jar",
+      "required": true
+    },
+    {
+      "projectID": 334153,
+      "fileID": 3050476,
+      "fileName": "oxygen-cp-grand-economy-1.12.2-0.11.2.jar",
+      "url": "https://edge.forgecdn.net/files/3050/476/oxygen-cp-grand-economy-1.12.2-0.11.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 401178,
+      "fileID": 6976141,
+      "fileName": "zenutils-1.25.8.jar",
+      "url": "https://edge.forgecdn.net/files/6976/141/zenutils-1.25.8.jar",
+      "required": true
+    },
+    {
+      "projectID": 334155,
+      "fileID": 2981869,
+      "fileName": "oxygen-mail-1.12.2-0.11.2.jar",
+      "url": "https://edge.forgecdn.net/files/2981/869/oxygen-mail-1.12.2-0.11.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 363855,
+      "fileID": 2974820,
+      "fileName": "oxygen-shop-1.12.2-0.11.1.jar",
+      "url": "https://edge.forgecdn.net/files/2974/820/oxygen-shop-1.12.2-0.11.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 229523,
+      "fileID": 3101995,
+      "fileName": "Armourers-Workshop-1.12.2-0.51.0.jar",
+      "url": "https://edge.forgecdn.net/files/3101/995/Armourers-Workshop-1.12.2-0.51.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 284904,
+      "fileID": 2568865,
+      "fileName": "noRecipeBook_v1.2.2formc1.12.2.jar",
+      "url": "https://edge.forgecdn.net/files/2568/865/noRecipeBook_v1.2.2formc1.12.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 1153317,
+      "fileID": 6136009,
+      "fileName": "classicbar-0.5.8.jar",
+      "url": "https://edge.forgecdn.net/files/6136/9/classicbar-0.5.8.jar",
+      "required": true
+    },
+    {
+      "projectID": 419286,
+      "fileID": 6344449,
+      "fileName": "!mixinbooter-10.6.jar",
+      "url": "https://edge.forgecdn.net/files/6344/449/!mixinbooter-10.6.jar",
+      "required": true
+    },
+    {
+      "projectID": 227083,
+      "fileID": 2518667,
+      "fileName": "Baubles-1.12-1.5.2.jar",
+      "url": "https://edge.forgecdn.net/files/2518/667/Baubles-1.12-1.5.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 410295,
+      "fileID": 4514895,
+      "fileName": "konkrete_forge_1.6.1_MC_1.12-1.12.2.jar",
+      "url": "https://edge.forgecdn.net/files/4514/895/konkrete_forge_1.6.1_MC_1.12-1.12.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 221939,
+      "fileID": 2837187,
+      "fileName": "MorePlayerModels_1.12.2-(05Dec19).jar",
+      "url": "https://edge.forgecdn.net/files/2837/187/MorePlayerModels_1.12.2-(05Dec19).jar",
+      "required": true
+    },
+    {
+      "projectID": 322587,
+      "fileID": 2974798,
+      "fileName": "oxygen-exchange-1.12.2-0.11.1.jar",
+      "url": "https://edge.forgecdn.net/files/2974/798/oxygen-exchange-1.12.2-0.11.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 532127,
+      "fileID": 5734973,
+      "fileName": "LegendaryTooltips-1.12.2-1.1.11.jar",
+      "url": "https://edge.forgecdn.net/files/5734/973/LegendaryTooltips-1.12.2-1.1.11.jar",
+      "required": true
+    },
+    {
+      "projectID": 312141,
+      "fileID": 3172004,
+      "fileName": "GrandEconomy-1.12.2-2.1.2.jar",
+      "url": "https://edge.forgecdn.net/files/3172/4/GrandEconomy-1.12.2-2.1.2.jar",
+      "required": true
+    }
+  ]
+}
